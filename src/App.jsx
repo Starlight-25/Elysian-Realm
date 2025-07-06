@@ -1,7 +1,8 @@
 import React from "react";
+import Home from "./pages/Home.jsx";
 
 function App() {
-    return <h1>Elysian Realm Guide</h1>;
+    return <Home />;
 }
 
 export default App
