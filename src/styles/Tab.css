@@ -5,11 +5,11 @@ nav {
     gap: 100px;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to right,transparent 20%, #501A5E, transparent 80%);
+    background: linear-gradient(to right,transparent 25%, #501A5E, transparent 75%);
     border: 10px solid #1E1C2F;
     border-left: none;
     border-right: none;
-    border-image-source: linear-gradient(to right, transparent 20%, #1E1C2F, transparent 80%);
+    border-image-source: linear-gradient(to right, transparent 25%, #1E1C2F, transparent 75%);
     border-image-slice: 1;
 }
 
