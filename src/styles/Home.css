@@ -19,17 +19,17 @@
     z-index: -1;
 }
 
-.title {
+.home-title {
     text-align: center;
     color: white;
 }
 
-.title h1 {
+.home-title h1 {
     padding-top: 25px;
     font-size: 75px;
 }
 
-.title h2 {
+.home-title h2 {
     padding-top: 10px;
     padding-bottom: 25px;
     font-size: 35px;
