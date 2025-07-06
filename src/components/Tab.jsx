@@ -19,6 +19,7 @@ function Tabs() {
         <nav>
             <Link to="/">Home</Link>
             <Link to="/about">About this page</Link>
+            <a href={"https://rentry.org/ElysianRealm"} target={"_blank"}>Rentry Page</a>
         </nav>
     );
 }
