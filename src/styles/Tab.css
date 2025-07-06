@@ -1,0 +1,24 @@
+nav {
+    position: relative;
+    padding: 10px 0;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right,transparent 20%, #501A5E, transparent 80%);
+    border: 10px solid #1E1C2F;
+    border-left: none;
+    border-right: none;
+    border-image-source: linear-gradient(to right, transparent 20%, #1E1C2F, transparent 80%);
+    border-image-slice: 1;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+}
+nav a:hover {
+    color: #E2A8FE;
+}

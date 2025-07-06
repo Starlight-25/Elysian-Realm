@@ -2,6 +2,7 @@ import React from "react";
 import {BrowserRouter, Link, Route, Routes} from "react-router-dom";
 import Home from "../pages/Home.jsx";
 import About from "../pages/About.jsx";
+import "../styles/Tab.css";
 
 export function TabsRoutes() {
     return (
