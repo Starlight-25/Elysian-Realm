@@ -1,10 +1,8 @@
 import React from "react";
 import Tabs from "../components/Tab.jsx";
 
-const title = <><h1>Elysian Realm Guide</h1>
-<h2>Recommended build v8.3</h2></>;
-
-function Home() {
+const title = <h1>About this page</h1>;
+function About() {
     return (
         <>
             {title}
@@ -13,4 +11,4 @@ function Home() {
     );
 }
 
-export default Home;
+export default About;

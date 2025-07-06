@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./pages/Home.jsx";
+import {TabsRoutes} from "./components/Tab.jsx";
 
 function App() {
-    return <Home />;
+    return <TabsRoutes/>;
 }
 
-export default App
+export default App;
