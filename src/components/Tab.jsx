@@ -1,15 +1,18 @@
 import React from "react";
-import {BrowserRouter, Link, Route, Routes} from "react-router-dom";
+import {BrowserRouter, Link, Navigate, Route, Routes} from "react-router-dom";
 import Home from "../pages/Home.jsx";
 import About from "../pages/About.jsx";
 import "../styles/Tab.css";
+import Build from "../pages/Build.jsx";
 
 export function TabsRoutes() {
     return (
         <BrowserRouter basename={"/Elysian-Realm"}>
             <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/about" element={<About />} />
+                <Route path="/" element={<Home/>}/>
+                <Route path="/build" element={<Navigate to="/" replace/>}/>
+                <Route path="/about" element={<About/>}/>
+                <Route path="/build/:name" element={<Build/>}/>
             </Routes>
         </BrowserRouter>
     );

@@ -1,6 +1,7 @@
 import React from "react";
 import Tabs from "../components/Tab.jsx";
 import "../styles/Home.css";
+import {Link} from "react-router-dom";
 
 function Title() {
     return (<div className="home-title">
@@ -14,14 +15,21 @@ function getBattlesuitsImagesPaths() {
     return Object.keys(files).map(
         path => {
             const fullname = path.split("/").pop();
-            const battlesuitImage = "images/battlesuits/" + fullname.replace(".json", ".webp");
-            return battlesuitImage;
+            const battlesuitName = fullname.replace(".json", "");
+            const battlesuitImage = `/Elysian-Realm/images/battlesuits/${battlesuitName}.webp`;
+            return {name: battlesuitName, image: battlesuitImage};
         }
     );
 }
 
 function RenderBattlesuitsImages() {
-    return getBattlesuitsImagesPaths().map(battlesuitsImage => <img src={battlesuitsImage}/>);
+    return getBattlesuitsImagesPaths().map(
+        battlesuitsImage => (
+            <Link to={`build/${battlesuitsImage.name}`}>
+                <img src={battlesuitsImage.image}/>
+            </Link>
+        )
+    );
 }
 
 function Home() {
