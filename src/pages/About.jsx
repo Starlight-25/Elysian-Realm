@@ -2,11 +2,14 @@ import React from "react";
 import Tabs from "../components/Tab.jsx";
 import "../styles/About.css";
 
-const title = <h1 className="about-title">About this guide</h1>;
+function Title() {
+    return <h1 className="about-title">About this guide</h1>;
+}
+
 function About() {
     return (
         <div className="about-container">
-            {title}
+            <Title/>
             <Tabs/>
         </div>
     );

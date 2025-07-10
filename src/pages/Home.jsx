@@ -33,11 +33,13 @@ function RenderBattlesuitsImages() {
 }
 
 function Home() {
-    return (<div className="home-container">
-        <Title/>
-        <Tabs/>
-        <RenderBattlesuitsImages/>
-    </div>);
+    return (
+        <div className="home-container">
+            <Title/>
+            <Tabs/>
+            <RenderBattlesuitsImages/>
+        </div>
+    );
 }
 
 export default Home;
