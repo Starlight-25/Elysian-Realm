@@ -1,0 +1,139 @@
+[
+  {
+    "Build Name": "Herrscher of Thunder Narukami",
+    "Weapon": "Seven Thunders of Retribution: Narukami",
+    "Stigmata": "Handel",
+    "Buffs": [
+      {
+        "Effect": "Weapon active vulnerability",
+        "Cost": 5
+      },
+      {
+        "Effect": "Counter type TDM boost",
+        "Cost": 10
+      },
+      {
+        "Effect": "Summons TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Lightning Empress",
+        "Support2": "Azure Empyrea/Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea/Reverist Calico"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Rainbow of Absence",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Burden",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Narukami",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Tsukuyomi",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Divine Penalty",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Mitama",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Hazy Moon",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signet": {
+      "Name": "Signets of Stars",
+      "Owner": "Griseo",
+      "Signet": [
+        "Red & Hot",
+        "Blue & Cold",
+        "Yellow & Warm",
+        "Black & Dark",
+        "Shining Like Stars (Nexus)",
+        "Blooming Like Flowers",
+        "Burning Like Flames",
+        "Stretching Like Leaves"
+      ]
+    },
+    "Signets": [
+      {
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
+        "Signet": [
+          "Goblet of the Giver",
+          "Brand of the Undead",
+          "Artifact of the Inhibitor",
+          "Rochet of the Pilgrim",
+          "Blade of the Deliverer (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Entwined [P]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Entwined [P]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
