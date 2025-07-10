@@ -1,0 +1,74 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "",
+    "Stigmata": "",
+    "Buffs": [
+      {
+        "Effect": "",
+        "Cost": -1
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "",
+        "Support2": ""
+      },
+      "Damage": {
+        "Support1": "",
+        "Support2": ""
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "",
+        "Support": ""
+      },
+      "1st Shop": {
+        "General": "",
+        "Support": ""
+      },
+      "16F": {
+        "General": "",
+        "Support": ""
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signet": {
+      "Name": "Signets of",
+      "Signet": [
+        ""
+      ]
+    },
+    "Signets": [
+      {
+        "Name": "Signets of",
+        "Owner": "",
+        "Signet": [
+          ""
+        ]
+      }
+    ]
+  }
+]
