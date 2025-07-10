@@ -1,0 +1,251 @@
+[
+  {
+    "Build Name": "Herrscher of Human: Ego astral ring fast ulti",
+    "Weapon": "Flawless Benediction: Legacy",
+    "Stigmata": "Solon",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Variable Arms buff",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Ultimate TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Rainbow of Absence",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "First Bloom",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "First Awakening",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "First Journey",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "First Encounter",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "First Yearning",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signet": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act V: Spider Web",
+        "Interlude: Reversed Spiral (Nexus)"
+      ]
+    },
+    "Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of",
+        "Owner": "",
+        "Signet": [
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Desireless, Mindless, and Homeless"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Human: Ego charge dk",
+    "Weapon": "Flawless Benediction: Legacy",
+    "Stigmata": "Solon",
+    "Buffs": [
+      {
+        "Effect": "Trauma DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Reverist Calico",
+        "Support2": "Azure Empyrea"
+      },
+      "Damage": {
+        "Support1": "Mad Pleasure Shadowbringer",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Feast of Emptiness",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "First Encounter",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "First Yearning",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "First Bloom",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "First Journey",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "First Awakening",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signet": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Desireless, Mindless, and Homeless",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
+      ]
+    },
+    "Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Shiny & Valuable",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
