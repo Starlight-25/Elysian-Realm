@@ -2,6 +2,7 @@ import React from "react";
 import Tabs from "../components/Tab.jsx";
 import "../styles/Home.css";
 import {Link} from "react-router-dom";
+import {getBattlesuitImage} from "../components/Images.jsx";
 
 function Title() {
     return (<div className="home-title">
@@ -10,23 +11,22 @@ function Title() {
     </div>);
 }
 
-function getBattlesuitsImagesPaths() {
+function getBattlesuitsImagesName() {
     const files = import.meta.glob("../data/Builds/*", {eager: true});
     return Object.keys(files).map(
         path => {
             const fullname = path.split("/").pop();
             const battlesuitName = fullname.replace(".json", "");
-            const battlesuitImage = `/Elysian-Realm/images/battlesuits/${battlesuitName}.webp`;
-            return {name: battlesuitName, image: battlesuitImage};
+            return battlesuitName;
         }
     );
 }
 
 function RenderBattlesuitsImages() {
-    return getBattlesuitsImagesPaths().map(
-        battlesuitsImage => (
-            <Link to={`build/${battlesuitsImage.name}`}>
-                <img src={battlesuitsImage.image}/>
+    return getBattlesuitsImagesName().map(
+        name => (
+            <Link to={`build/${name}`}>
+                {getBattlesuitImage(name)}
             </Link>
         )
     );

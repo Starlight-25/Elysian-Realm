@@ -2,13 +2,19 @@ import React, {useEffect, useState} from "react";
 import {useParams} from "react-router-dom";
 import Tabs from "../components/Tab.jsx";
 import Table from "../components/Table.jsx";
-import {getRemembranceSigilImage, getSupportImage} from "../components/Images.jsx";
+import {
+    getBattlesuitImage,
+    getRemembranceSigilImage,
+    getStigmataSetImage,
+    getSupportImage,
+    getWeaponImage
+} from "../components/Images.jsx";
 
 function Title({name}) {
     return (
         <div className="build-title">
             <h1>{name.replace(/_/g, " ")}</h1>
-            <img src={`/Elysian-Realm/images/battlesuits/${name}.webp`}/>
+            {getBattlesuitImage(name)}
         </div>
     );
 }
@@ -53,8 +59,8 @@ function showBuild(build) {
 function GearRecommendation({build}) {
     return (
         <div className="gear-recommandation">
-            <p><strong>Weapon:</strong> {build.Weapon}</p>
-            <p><strong>Stigmata:</strong> {build.Stigmata}</p>
+            <p><strong>Weapon:</strong> {getWeaponImage(build.Weapon)}</p>
+            <p><strong>Stigmata:</strong> {getStigmataSetImage(build.Stigmata)}</p>
         </div>
     );
 }
