@@ -6,7 +6,7 @@ function getBattlesuitImage(name){
 }
 
 function getSupportImage(name){
-    const path = `/Elysian-Realm/images/supports/${name.replace(/ /g, "_")}.webp`;
+    const path = `/Elysian-Realm/images/supports/${name.replace(/ /g, "_").replace(/:/g, "")}.webp`;
     return <img src={path}/>;
 }
 
