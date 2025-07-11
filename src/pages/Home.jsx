@@ -2,7 +2,7 @@ import React from "react";
 import Tabs from "../components/Tab.jsx";
 import "../styles/Home.css";
 import {Link} from "react-router-dom";
-import {getBattlesuitImage} from "../components/Images.jsx";
+import {getBattlesuitImage, getNamePretty} from "../components/Images.jsx";
 
 function Title() {
     return (<div className="home-title">
@@ -23,12 +23,17 @@ function getBattlesuitsImagesName() {
 }
 
 function RenderBattlesuitsImages() {
-    return getBattlesuitsImagesName().map(
-        name => (
-            <Link to={`build/${name}`}>
-                {getBattlesuitImage(name)}
-            </Link>
-        )
+    return (
+        <div className="battlesuits-image-grid">
+            {getBattlesuitsImagesName().map(name => (
+                <Link to={`build/${name}`}>
+                    <div className="image-container">
+                        {getBattlesuitImage(name)}
+                        <div className="hover-text">{getNamePretty(name)}</div>
+                    </div>
+                </Link>
+            ))}
+        </div>
     );
 }
 

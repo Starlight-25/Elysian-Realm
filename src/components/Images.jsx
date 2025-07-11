@@ -1,5 +1,9 @@
 import React from "react";
 
+function getNamePretty(name) {
+    return name.replace(/_/g, " ")
+}
+
 function getBattlesuitImage(name) {
     const path = `/Elysian-Realm/images/battlesuits/${name}.webp`;
     return <img src={path}/>;
@@ -29,4 +33,11 @@ function getRemembranceSigilImage(name) {
     return <img src={path}/>;
 }
 
-export {getBattlesuitImage, getWeaponImage, getStigmataSetImage, getSupportImage, getRemembranceSigilImage};
+export {
+    getNamePretty,
+    getBattlesuitImage,
+    getWeaponImage,
+    getStigmataSetImage,
+    getSupportImage,
+    getRemembranceSigilImage
+};
