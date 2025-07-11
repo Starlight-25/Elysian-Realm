@@ -2,6 +2,7 @@ import React, {useEffect, useState} from "react";
 import {useParams} from "react-router-dom";
 import Tabs from "../components/Tab.jsx";
 import Table from "../components/Table.jsx";
+import {getRemembranceSigilImage, getSupportImage} from "../components/Images.jsx";
 
 function Title({name}) {
     return (
@@ -74,8 +75,8 @@ function Support({support}) {
         <div className="support">
             <h2>Support</h2>
             <Table head={["Type", "Support1", "Support2"]} items={[
-                ["Utility", utility.Support1, utility.Support2],
-                ["Damage", damage.Support1, damage.Support2]
+                ["Utility", getSupportImage(utility.Support1), getSupportImage(utility.Support2)],
+                ["Damage", getSupportImage(damage.Support1), getSupportImage(damage.Support2)]
             ]}/>
         </div>
     );
@@ -89,9 +90,9 @@ function RemembranceSigil({sigil}) {
         <div className="remembrance-sigil">
             <h2>Remembrance Sigil</h2>
             <Table head={["Time", "General", "Support"]} items={[
-                ["Start", start.General, start.Support],
-                ["1st Shop", firstShop.General, firstShop.Support],
-                ["16F", floor16.General, floor16.Support]
+                ["Start", getRemembranceSigilImage(start.General), getRemembranceSigilImage(start.Support)],
+                ["1st Shop", getRemembranceSigilImage(firstShop.General), getRemembranceSigilImage(firstShop.Support)],
+                ["16F", getRemembranceSigilImage(floor16.General), getRemembranceSigilImage(floor16.Support)]
             ]}/>
         </div>
     );
