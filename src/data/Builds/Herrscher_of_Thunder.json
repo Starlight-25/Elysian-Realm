@@ -63,7 +63,7 @@
         "Recommendation": "No"
       }
     ],
-    "Main Signet": {
+    "Main Signets": {
       "Name": "Signets of Stars",
       "Owner": "Griseo",
       "Signet": [
@@ -77,7 +77,7 @@
         "Stretching Like Leaves"
       ]
     },
-    "Signets": [
+    "Secondary Signets": [
       {
         "Name": "Signets of Deliverance",
         "Owner": "Kevin",

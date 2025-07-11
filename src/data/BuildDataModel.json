@@ -55,14 +55,14 @@
         "Recommendation": "No"
       }
     ],
-    "Main Signet": {
+    "Main Signets": {
       "Name": "Signets of",
       "Owner": "",
       "Signet": [
         ""
       ]
     },
-    "Signets": [
+    "Secondary Signets": [
       {
         "Name": "Signets of",
         "Owner": "",

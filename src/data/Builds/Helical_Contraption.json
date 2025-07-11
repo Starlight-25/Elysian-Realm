@@ -59,7 +59,7 @@
         "Recommendation": "Optional"
       }
     ],
-    "Main Signet": {
+    "Main Signets": {
       "Name": "Signets of Gold",
       "Owner": "Eden",
       "Signet": [
@@ -72,7 +72,7 @@
         "Aria of Life"
       ]
     },
-    "Signets": [
+    "Secondary Signets": [
       {
         "Name": "Signets of Bodhi",
         "Owner": "Su",
