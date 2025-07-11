@@ -9,10 +9,11 @@ import {
     getSupportImage,
     getWeaponImage
 } from "../components/Images.jsx";
+import "../styles/Build.css";
 
 function Title({name}) {
     return (
-        <div className="build-title">
+        <div className="battlesuit-title">
             <h1>{name.replace(/_/g, " ")}</h1>
             {getBattlesuitImage(name)}
         </div>
@@ -58,9 +59,12 @@ function showBuild(build) {
 
 function GearRecommendation({build}) {
     return (
-        <div className="gear-recommandation">
-            <p><strong>Weapon:</strong> {getWeaponImage(build.Weapon)}</p>
-            <p><strong>Stigmata:</strong> {getStigmataSetImage(build.Stigmata)}</p>
+        <div className="gear-recommendation">
+            <h2>Gear Recommendation</h2>
+            <p><strong>Weapon</strong> {getWeaponImage(build.Weapon)}</p>
+            <p><strong>Stigmata</strong>
+                <div className="stigmata-grid">{getStigmataSetImage(build.Stigmata)}</div>
+            </p>
         </div>
     );
 }
@@ -154,7 +158,7 @@ function OptionalSignets({signetsList}) {
 function BuildPage() {
     const {name} = useParams();  // récupère le battlesuit sélectionné
     return (
-        <div>
+        <div className="build-container">
             <Title name={name}/>
             <Tabs/>
             <ShowBuilds name={name}/>

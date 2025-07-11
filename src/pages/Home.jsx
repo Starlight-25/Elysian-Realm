@@ -1,8 +1,9 @@
 import React from "react";
 import Tabs from "../components/Tab.jsx";
-import "../styles/Home.css";
 import {Link} from "react-router-dom";
 import {getBattlesuitImage, getNamePretty} from "../components/Images.jsx";
+import "../styles/Home.css";
+import "../styles/ImageHover.css";
 
 function Title() {
     return (<div className="home-title">
@@ -27,9 +28,9 @@ function RenderBattlesuitsImages() {
         <div className="battlesuits-image-grid">
             {getBattlesuitsImagesName().map(name => (
                 <Link to={`build/${name}`}>
-                    <div className="image-container">
+                    <div className="home-title image-container">
                         {getBattlesuitImage(name)}
-                        <div className="hover-text">{getNamePretty(name)}</div>
+                        <div className="home-title hover-text">{getNamePretty(name)}</div>
                     </div>
                 </Link>
             ))}

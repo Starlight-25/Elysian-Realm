@@ -15,22 +15,45 @@ function getFileName(name) {
 
 function getWeaponImage(name) {
     const path = `/Elysian-Realm/images/weapons/${getFileName(name)}.webp`;
-    return <img src={path}/>;
+    return (
+        <div className="weapon-image image-container">
+            <img src={path}/>
+            <div className="weapon-image hover-text">{name}</div>
+        </div>
+    );
 }
 
 function getStigmataSetImage(name) {
-    const paths = ["T", "M", "B"].map(pos => `/Elysian-Realm/images/stigmata/${getFileName(name)}_(${pos}).webp`);
-    return paths.map(path => <img src={path}/>)
+    const paths = ["T", "M", "B"].map(pos => ({
+        path: `/Elysian-Realm/images/stigmata/${getFileName(name)}_(${pos}).webp`,
+        name: `${name} (${pos})`
+    }));
+    return paths.map(path => (
+        <div className="stigma-image image-container">
+            <img src={path.path}/>
+            <div className="stigma-image hover-text">{path.name}</div>
+        </div>
+    ))
 }
 
 function getSupportImage(name) {
     const path = `/Elysian-Realm/images/supports/${getFileName(name)}.webp`;
-    return <img src={path}/>;
+    return (
+        <div className="support-image image-container">
+            <img src={path}/>
+            <div className="support-image hover-text">{name}</div>
+        </div>
+    );
 }
 
 function getRemembranceSigilImage(name) {
     const path = `/Elysian-Realm/images/remembranceSigil/${getFileName(name)}.webp`;
-    return <img src={path}/>;
+    return (
+        <div className="remembrancesigil-image image-container">
+            <img src={path}/>
+            <div className="remembrancesigil-image hover-text">{name}</div>
+        </div>
+    );
 }
 
 export {

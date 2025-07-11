@@ -1,0 +1,22 @@
+.image-container{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.hover-text {
+    position: absolute;
+    font-size: 15px;
+    opacity: 0;
+    color: white;
+    text-align: center;
+    background-color: rgba(80, 26, 94, 0.5);
+    background-position: center;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.image-container:hover .hover-text {
+    opacity: 1;
+}
