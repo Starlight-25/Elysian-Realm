@@ -120,9 +120,11 @@ function EgoSignets({signets}) {
 function ShowSignets({signets}) {
     return (
         <div className="signets">
-            <h3>{signets.Name}</h3>
-            <h4>Owner: {signets.Owner}</h4>
             {getSignetImage(signets.Name)}
+            <div className="signets-text">
+                <h3>{signets.Name}</h3>
+                <h4>Owner: {signets.Owner}</h4>
+            </div>
             <ul>{signets.Signet.map(signet => <li>{signet}</li>)}</ul>
         </div>
     )

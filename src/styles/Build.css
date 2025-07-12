@@ -148,10 +148,26 @@
 }
 
 .signets {
+    position: relative;
     color: white;
     text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
+    overflow: hidden;
+}
+
+.signets-text {
+    position: absolute;
+    top: 35px;
+    width: 100%;
+}
+
+.signets img {
+    height: 75px;
+    display: block;
+    margin: 5px auto 5px auto;
+    object-fit: cover;
+    opacity: 0.5;
 }
 
 .signets h3 {
@@ -160,12 +176,6 @@
 
 .signets h4 {
     font-size: 15px;
-}
-
-.signets img {
-    height: 50px;
-    display: block;
-    margin: 5px auto 5px auto;
 }
 
 .signets li {
