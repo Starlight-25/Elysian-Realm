@@ -1,0 +1,242 @@
+﻿[
+  {
+    "Build Name": "Sugary Starburst ulti",
+    "Weapon": "Star Dance: Enlightenment",
+    "Stigmata": "Cecilia: Youth",
+    "Buffs": [
+      {
+        "Effect": "DJXY",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Nexus Ice DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Bright Knight Excelsis"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Roller Dance",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Acoustic Spectrum",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Salute",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rhythm",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Astral Path",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Fuji",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Sugary Starburst charge",
+    "Weapon": "Star Dance: Enlightenment",
+    "Stigmata": "Cecilia: Youth",
+    "Buffs": [
+      {
+        "Effect": "SP+30",
+        "Cost": 5
+      },
+      {
+        "Effect": "Support type DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Vermilion Knight Eclipse"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Roller Dance",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Astral Path",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Acoustic Spectrum",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rhythm",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Salute",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act V: Spider Web",
+        "Interlude: Reversed Spiral (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Soldiers, Scissors, Spoils and Slaughter (Nexus)",
+          "Homeland and Friends"
+        ]
+      },
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "Fourth, No Insolence",
+          "Fifth, No Falsehood",
+          "Sixth, No Decadence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          ""
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Black & Dark"
+        ]
+      }
+    ]
+  }
+]

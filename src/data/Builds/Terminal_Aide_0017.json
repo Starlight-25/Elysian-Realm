@@ -1,0 +1,126 @@
+﻿[
+  {
+    "Build Name": null,
+    "Weapon": "Pandora's Box 18th",
+    "Stigmata": "MEI",
+    "Buffs": [
+      {
+        "Effect": "Max HP+200",
+        "Cost": 5
+      },
+      {
+        "Effect": "Status vulnerability",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon active vulnerability",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Bright Knight Excelsis"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Starlit Astrologos"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Guiding ",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Recursion",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Restructuring",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Stimulus",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Override",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act VI: Sneer",
+        "Interlude: Reversed Spiral (Nexus)",
+        "Act VIII: Adorned Chamber",
+        "Act VII: Half-Closed Door"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ]
+  }
+]

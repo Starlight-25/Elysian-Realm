@@ -1,0 +1,130 @@
+﻿[
+  {
+    "Build Name": null,
+    "Weapon": "Star of Eden: World",
+    "Stigmata": "Willows",
+    "Buffs": [
+      {
+        "Effect": "DJXY",
+        "Cost": 0
+      },
+      {
+        "Effect": "Different type support bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Nexus Ice DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Bright Knight Excelsis",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Burden",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Forget-Me-Not",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Wisdom",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Truth",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Inspiration",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Reason",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Creation",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Deliverance",
+      "Owner": "Kevin",
+      "Signet": [
+        "Goblet of the Giver",
+        "Brand of the Undead",
+        "Artifact of the Inhibitor",
+        "Rochet of the Pilgrim",
+        "Shadow of the Deliverer (Nexus)",
+        "Dream of the Deliverer"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Fuji",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Soldiers, Scissors, Spoils and Slaughter (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Black-Curled Tail",
+          "Flexible P&C",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
