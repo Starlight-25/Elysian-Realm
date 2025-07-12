@@ -7,7 +7,7 @@ import Build from "../pages/Build.jsx";
 
 export function TabsRoutes() {
     return (
-        <BrowserRouter basename={"/Elysian-Realm"}>
+        <BrowserRouter basename={"/Elysian-Realm/"}>
             <Routes>
                 <Route path="/" element={<Home/>}/>
                 <Route path="/build" element={<Navigate to="/" replace/>}/>

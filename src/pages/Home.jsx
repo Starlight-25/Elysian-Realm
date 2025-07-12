@@ -27,7 +27,7 @@ function RenderBattlesuitsImages() {
     return (
         <div className="battlesuits-image-grid">
             {getBattlesuitsImagesName().map(name => (
-                <Link to={`build/${name}`}>
+                <Link to={`build/${name.replace(/-/g, "")}`}>
                     <div className="home-title image-container">
                         {getBattlesuitImage(name)}
                         <div className="home-title hover-text">{getNamePretty(name)}</div>
