@@ -1,0 +1,245 @@
+﻿[
+  {
+    "Build Name": "Valkyrie Boltstorm astral ring",
+    "Weapon": "Electrifying Arc: Azure Sky",
+    "Stigmata": "Von Neumann",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Ultimate TDM bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Azure Empyrea"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Empty like Shala"
+      },
+      "1st Shop": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Vivace",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Resolution",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Meditation",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Sparkling Lightning",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Improvisation",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Valkyrie Boltstorm no astral ring",
+    "Weapon": "Electrifying Arc: Azure Sky",
+    "Stigmata": "Von Neumann",
+    "Buffs": [
+      {
+        "Effect": "HOMU",
+        "Cost": 0
+      },
+      {
+        "Effect": "Support type DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Bright Knight: Excelsis",
+        "Support2": "Vermilion Knight: Eclipse"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Sparkling Lightning",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Improvisation",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Meditation",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Vivace",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Resolution",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Ceto-Pariya-Nana",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Fuji",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Soldiers, Scissors, Spoils and Slaughter (Nexus)"
+        ]
+      }
+    ]
+  }
+]
