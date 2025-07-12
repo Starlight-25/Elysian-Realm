@@ -10,7 +10,7 @@ function getBattlesuitImage(name) {
 }
 
 function getFileName(name) {
-    return name.replace(/ /g, "_").replace(/:/g, "")
+    return name.replace(/ /g, "_").replace(/:/g, "-")
 }
 
 function getWeaponImage(name) {

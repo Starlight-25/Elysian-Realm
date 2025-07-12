@@ -1,0 +1,249 @@
+﻿[
+  {
+    "Build Name": "Mad Pleasure: Shadowbringer astral ring",
+    "Weapon": "Banquet Rose: Faux Crown",
+    "Stigmata": "Splendors of Amber",
+    "Buffs": [
+      {
+        "Effect": "DJXY",
+        "Cost": 0
+      },
+      {
+        "Effect": "Ele DMG bonus, FC nexus Ice DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Waltz",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Fine Clothes",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Nobility",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Feast",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Goblet",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Mad Pleasure: Shadowbringer no astral ring",
+    "Weapon": "Banquet Rose: Faux Crown",
+    "Stigmata": "Splendors of Amber",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Variable Arms buff",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Ultimate TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Azure Empyrea"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Memory",
+        "Support": "Hometown"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Ruined Legacy",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Feast",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Goblet",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Nobility",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Waltz",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Fine Clothes",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Vicissitude",
+      "Owner": "Hua",
+      "Signet": [
+        "Long Trip",
+        "Dark Garb No More",
+        "Old Dreams Again",
+        "Vivid Vicissitude (Nexus)",
+        "Forgotten and Forsaken"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
