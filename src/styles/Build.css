@@ -70,7 +70,8 @@
 .weapon-image img {
     height: 150px;
     display: block;
-    background-color: mediumpurple;
+    background: radial-gradient(circle, #aa9bed80 15%, #4c008280 60%, #1a004280);
+    border-radius: 10px;
 }
 
 .weapon-image.hover-text {
@@ -183,5 +184,9 @@
     padding: 2px;
     margin: 0 auto;
     list-style-type: none;
-    border: 1px solid deeppink;
+    border-bottom: 1px solid #FFFFFF80;
+}
+
+.signets li:first-child{
+    border-top: 1px solid #FFFFFF80;
 }

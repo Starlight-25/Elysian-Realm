@@ -51,7 +51,10 @@
 .home-title.image-container {
     width: 100%;
     height: 250px;
-    background-color: mediumpurple;
+    background: radial-gradient(circle, #aa9bed80 15%, #4c008280 60%, #1a004280);
+    /*background: radial-gradient(circle, #3e086680, #1E1C2F80);*/
+    border-radius: 10px;
+    /*border: #aa9bed solid 2px;*/
 }
 
 .home-title.image-container img {

@@ -5,12 +5,12 @@
 }
 
 table th, table td {
-    border: 1px solid deeppink;
+    border: 1px solid #FFFFFF80;
     text-align: left;
 }
 
 table thead th {
-    background-color: mediumpurple;
+    background-color: #3e0866B0;
     height: 25px;
     font-size: 20px;
     text-align: center;
