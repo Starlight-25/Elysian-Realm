@@ -1,7 +1,7 @@
 import React from "react";
 
 function getNamePretty(name) {
-    return name.replace(/_/g, " ")
+    return name.replace(/_/g, " ").replace(/-/g, ":");
 }
 
 function getBattlesuitImage(name) {

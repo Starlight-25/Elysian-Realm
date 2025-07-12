@@ -3,7 +3,7 @@ import {useParams} from "react-router-dom";
 import Tabs from "../components/Tab.jsx";
 import Table from "../components/Table.jsx";
 import {
-    getBattlesuitImage,
+    getBattlesuitImage, getNamePretty,
     getRemembranceSigilImage, getSignetImage,
     getStigmataSetImage,
     getSupportImage,
@@ -14,7 +14,7 @@ import "../styles/Build.css";
 function Title({name}) {
     return (
         <div className="battlesuit-title">
-            <h1>{name.replace(/_/g, " ")}</h1>
+            <h1>{getNamePretty(name)}</h1>
             {getBattlesuitImage(name)}
         </div>
     );
@@ -147,6 +147,9 @@ function SecondarySignets({signetsList}) {
 }
 
 function OptionalSignets({signetsList}) {
+    if (signetsList.length === 0) {
+        return null;
+    }
     return (
         <div className="optional-signets">
             <h2>Optional Signets</h2>
