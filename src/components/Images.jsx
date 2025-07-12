@@ -56,11 +56,17 @@ function getRemembranceSigilImage(name) {
     );
 }
 
+function getSignetImage(name) {
+    const path = `/Elysian-Realm/images/signets/${getFileName(name).replace("Signets", "Signet")}.png`;
+    return <img src={path}/>;
+}
+
 export {
     getNamePretty,
     getBattlesuitImage,
     getWeaponImage,
     getStigmataSetImage,
     getSupportImage,
-    getRemembranceSigilImage
+    getRemembranceSigilImage,
+    getSignetImage
 };

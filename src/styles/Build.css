@@ -142,7 +142,36 @@
     text-align: center;
 }
 
-.ego-signets th{
+.ego-signets th {
     width: 250px;
     text-align: center;
+}
+
+.signets {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.signets h3 {
+    font-size: 25px;
+}
+
+.signets h4 {
+    font-size: 15px;
+}
+
+.signets img {
+    height: 50px;
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.signets li {
+    width: 250px;
+    padding: 2px;
+    margin: 0 auto;
+    list-style-type: none;
+    border: 1px solid deeppink;
 }

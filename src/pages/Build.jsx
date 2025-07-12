@@ -4,7 +4,7 @@ import Tabs from "../components/Tab.jsx";
 import Table from "../components/Table.jsx";
 import {
     getBattlesuitImage,
-    getRemembranceSigilImage,
+    getRemembranceSigilImage, getSignetImage,
     getStigmataSetImage,
     getSupportImage,
     getWeaponImage
@@ -121,7 +121,8 @@ function ShowSignets({signets}) {
     return (
         <div className="signets">
             <h3>{signets.Name}</h3>
-            <h3>Owner: {signets.Owner}</h3>
+            <h4>Owner: {signets.Owner}</h4>
+            {getSignetImage(signets.Name)}
             <ul>{signets.Signet.map(signet => <li>{signet}</li>)}</ul>
         </div>
     )
