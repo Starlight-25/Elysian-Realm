@@ -1,0 +1,253 @@
+﻿[
+  {
+    "Build Name": "Lone Destruction: Shadowchaser astral ring",
+    "Weapon": "Burn the Long Night: Luminare",
+    "Stigmata": "Lantern: Guardian",
+    "Buffs": [
+      {
+        "Effect": "MHT-3B",
+        "Cost": 0
+      },
+      {
+        "Effect": "Weapon skill TDM bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Vermilion Knight: Eclipse",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Raging Fire",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Scorching Flames",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Illuminated Night",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Blazing Torch",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Luminance",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Good Wine",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)",
+        "Aria of Soil"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Act VI: Sneer",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Lone Destruction: Shadowchaser no astral ring",
+    "Weapon": "Burn the Long Night: Luminare",
+    "Stigmata": "Lantern: Guardian",
+    "Buffs": [
+      {
+        "Effect": "Pishacha",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Trauma DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Vermilion Knight: Eclipse",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Mad Pleasure: Shadowbringer",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Empty like Shala"
+      },
+      "1st Shop": {
+        "General": "Gold Goblet",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Out of Reach"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blazing Torch",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Luminance",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Illuminated Night",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Raging Fire",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Scorching Flames",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Ceto-Pariya-Nana",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anitya",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Good Wine",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Act VI: Sneer",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Soldiers, Scissors, Spoils and Slaughter (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
