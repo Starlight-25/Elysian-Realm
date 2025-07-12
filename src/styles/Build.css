@@ -38,14 +38,21 @@
     padding-bottom: 25px;
 }
 
-.gear-recommendation {
-    padding: 50px;
+.build h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding: 25px;
 }
 
-.gear-recommendation h2 {
+.build h2 {
     color: white;
     text-align: center;
     font-size: 35px;
+}
+
+.gear-recommendation {
+    padding: 10px;
 }
 
 .gear-recommendation p {
@@ -95,9 +102,47 @@
     object-fit: cover;
 }
 
-.stigma-image.hover-text{
+.stigma-image.hover-text {
     bottom: 5px;
     margin-left: 5px;
     margin-right: 5px;
     margin-bottom: 5px;
+}
+
+.buffs,
+.buffs h2,
+.support,
+.support h2,
+.remembrance-sigil,
+.remembrance-sigil h2,
+.ego-signets,
+.ego-signets h2,
+.main-signets,
+.main-signets h2 {
+    padding: 10px;
+}
+
+.buffs .col0 {
+    width: 100px;
+    text-align: center;
+}
+
+.buffs .col1 {
+    width: 300px;
+    padding: 0 10px 0 10px;
+}
+
+.support .col0 {
+    width: 150px;
+    text-align: center;
+}
+
+.remembrance-sigil .col0 {
+    width: 200px;
+    text-align: center;
+}
+
+.ego-signets th{
+    width: 250px;
+    text-align: center;
 }

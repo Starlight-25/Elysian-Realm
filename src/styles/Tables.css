@@ -1,0 +1,33 @@
+﻿table {
+    border-collapse: collapse;
+    color: white;
+    margin: 0 auto;
+}
+
+table th, table td {
+    border: 1px solid deeppink;
+    text-align: left;
+}
+
+table thead th {
+    background-color: mediumpurple;
+    height: 25px;
+    font-size: 20px;
+    text-align: center;
+}
+
+table tbody .image-container{
+
+}
+
+table tbody img {
+    height: 100px;
+}
+
+table tbody .hover-text{
+    font-size: 10px;
+    bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}

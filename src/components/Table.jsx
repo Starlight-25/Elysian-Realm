@@ -1,9 +1,10 @@
 import React from "react";
+import "../styles/Tables.css";
 
 function TableLine({items}) {
     return (
         <tr>
-            {items.map(item => <th>{item}</th>)}
+            {items.map((item, i) => <th className={`col${i}`}>{item}</th>)}
         </tr>
     );
 }
@@ -14,9 +15,9 @@ function Table({head, items}) {
             <thead>
             <TableLine items={head}/>
             </thead>
-            <thead>
+            <tbody>
             {items.map(item => <TableLine items={item}/>)}
-            </thead>
+            </tbody>
         </table>
     );
 }

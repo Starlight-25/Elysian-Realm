@@ -43,7 +43,7 @@ function ShowBuilds({name}) {
 
 function showBuild(build) {
     return (
-        <div>
+        <div className="build">
             <h1>{build["Build Name"] || ""}</h1>
             <GearRecommendation build={build}/>
             <Buffs buffs={build.Buffs}/>
