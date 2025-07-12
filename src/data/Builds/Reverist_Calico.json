@@ -1,0 +1,131 @@
+﻿[
+  {
+    "Build Name": null,
+    "Weapon": "Purana Phantasma: Nighteye",
+    "Stigmata": "Cecilia: Youth",
+    "Buffs": [
+      {
+        "Effect": "HOMU",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon active vulnerability",
+        "Cost": 10
+      },
+      {
+        "Effect": "Support type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Bright Knight: Excelsis",
+        "Support2": "Azure Empyrea"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Cat's Eyes",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Hidden Claws",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Tailpiece ",
+        "Recommendation": "No(1st if Infinity+2)"
+      },
+      {
+        "Name": "Nighteye",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Phantasma",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Good Wine",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Soldiers, Scissors, Spoils and Slaughter (Nexus)",
+          "Burden, Difficulty, and Calamity",
+          "Man, Mask, and Contract"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "Fourth, No Insolence",
+          "Fifth, No Falsehood",
+          "Sixth, No Decadence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      }
+    ]
+  }
+]
