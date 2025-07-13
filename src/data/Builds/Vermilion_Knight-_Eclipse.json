@@ -1,0 +1,120 @@
+﻿[
+  {
+    "Build Name": "Vermillion Knight: Eclipse charge",
+    "Weapon": "Shuhadaku of Uriel",
+    "Stigmata": "Ragna",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "TDM bonus if no damage taken",
+        "Cost": 10
+      },
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "It Will Be Written"
+      },
+      "1st Shop": {
+        "General": "Burden",
+        "Support": "It Will Be Written"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blaze",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Sharp Flames",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Wild Flare",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Fiery Mind",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Burning Flow",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anitya",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
+        "Signet": [
+          "Goblet of the Giver",
+          "Pendant of the Watcher",
+          "Brand of the Undead",
+          "Rochet of the Pilgrim",
+          "Blade of the Deliverer (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of",
+        "Owner": "",
+        "Signet": [
+          ""
+        ]
+      },
+      {
+        "Name": "Signets of",
+        "Owner": "",
+        "Signet": [
+          ""
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of",
+        "Owner": "",
+        "Signet": [
+          ""
+        ]
+      }
+    ]
+  }
+]
