@@ -46,6 +46,8 @@
     padding-left: 250px;
     padding-right: 250px;
     padding-top: 50px;
+    justify-content: center;
+    align-items: center;
 }
 
 .home-title.image-container {
