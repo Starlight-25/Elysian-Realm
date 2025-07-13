@@ -1,0 +1,253 @@
+﻿[
+  {
+    "Build Name": "Cosmic Expression basic",
+    "Weapon": "Anchor of the Voyage: Interstellar",
+    "Stigmata": "Van Gogh",
+    "Buffs": [
+      {
+        "Effect": "Pishacha",
+        "Cost": 0
+      },
+      {
+        "Effect": "Melee ATK breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Snowy Sniper"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Fragile Friend",
+        "Support": "Out of Reach"
+      },
+      "1st Shop": {
+        "General": "Forbidden Seed",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Out of Reach"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Dazzle",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Anchor",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Meteorite",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Starlight",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Shining Blade",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Daybreak",
+      "Owner": "Kosma",
+      "Signet": [
+        "Talons that Desecrate the Santuary",
+        "Wings that Mask the Sanguine Moon",
+        "Horns that Rip the Bleak Sky",
+        "Eyes that Overlook the Vicious Abyss",
+        "Heart that Committed Seven Crimes",
+        "Daybreak, an Undying Light (Nexus)",
+        "Unbending Hero",
+        "Unwavering Promise"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Merchant's Philosophy",
+          "Shiny & Valuable",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Cosmic Expression parry",
+    "Weapon": "Anchor of the Voyage: Interstellar",
+    "Stigmata": "Van Gogh",
+    "Buffs": [
+      {
+        "Effect": "Pishacha",
+        "Cost": 0
+      },
+      {
+        "Effect": "Melee ATK breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Fragile Friend",
+        "Support": "Out of Reach"
+      },
+      "1st Shop": {
+        "General": "Forbidden Seed",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Out of Reach"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Meteorite",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Starlight",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Dazzle",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Anchor",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Shining Blade",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Daybreak",
+      "Owner": "Kosma",
+      "Signet": [
+        "Talons that Desecrate the Santuary",
+        "Wings that Mask the Sanguine Moon",
+        "Horns that Rip the Bleak Sky",
+        "Eyes that Overlook the Vicious Abyss",
+        "Heart that Committed Seven Crimes",
+        "Daybreak, an Undying Light (Nexus)",
+        "Unbending Hero",
+        "Unwavering Promise"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Lodging [C]",
+          "Infinite [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Merchant's Philosophy",
+          "Shiny & Valuable",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Desireless, Mindless, and Homeless",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ]
+  }
+]
