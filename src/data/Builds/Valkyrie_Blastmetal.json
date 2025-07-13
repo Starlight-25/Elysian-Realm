@@ -1,0 +1,258 @@
+﻿[
+  {
+    "Build Name": "Valkyrie Blastmetal astral ring",
+    "Weapon": "Blast Hammer: Blazing Red",
+    "Stigmata": "Fu Hua: Ordinary Day",
+    "Buffs": [
+      {
+        "Effect": "HOMU",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon active vulnerability",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Vermilion Knight: Eclipse"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Forbidden Seed",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Bolt",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Readiness",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Primer",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Proficiency",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Sky Blitz",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act I: Magic",
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act IV: Spoon",
+        "Act VI: Sneer",
+        "Interlude: Reversed Spiral (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X]",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Valkyrie Blastmetal no astral ring",
+    "Weapon": "Blast Hammer: Blazing Red",
+    "Stigmata": "Fu Hua: Ordinary Day",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Variable Arms buff",
+        "Cost": 5
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Outside Stellar Outburst",
+        "Cost": 10
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Vermilion Knight: Eclipse",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Memory",
+        "Support": "Hometownt"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Primer",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Proficiency",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Bolt",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Sky Blitz",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Readiness",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Vicissitude",
+      "Owner": "Hua",
+      "Signet": [
+        "Long Trip",
+        "Dark Garb No More",
+        "Old Dreams Again",
+        "Vivid Vicissitude (Nexus)",
+        "Forgotten and Forsaken"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
