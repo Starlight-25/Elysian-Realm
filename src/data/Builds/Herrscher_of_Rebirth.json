@@ -1,0 +1,492 @@
+[
+  {
+    "Build Name": "Herrscher of Rebirth Soothingness",
+    "Weapon": "Life Harvester's Path: Shared Destiny",
+    "Stigmata": "Seele: Herrscher of Rebirth",
+    "Buffs": [
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Different support type DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Trauma DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Starlit Astrologos"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Snowy Sniper"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Soothingness",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Decay",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Shared Destiny",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Spirits",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rising Sun",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Rebirth Decay",
+    "Weapon": "Life Harvester's Path: Shared Destiny",
+    "Stigmata": "Seele: Herrscher of Rebirth",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Bright Knight: Excelsis",
+        "Support2": "Starlit Astrologos"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Snowy Sniper"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forget-Me-Not",
+        "Support": "It Will Be Written"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "It Will Be Written"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Tsukimi Himiko"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Decay",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Soothingness",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Shared Destiny",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Spirits",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rising Sun",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Setsuna",
+      "Owner": "Sakura",
+      "Signet": [
+        "Bountiful Blossom: Koyo",
+        "Bountiful Blossom: Botan",
+        "Bountiful Blossom: Kiku",
+        "Bountiful Blossom: Fuji",
+        "Setsuna Blade: Yasha (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Desireless, Mindless, and Homeless",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Rebirth Soul Shaper",
+    "Weapon": "Life Harvester's Path: Shared Destiny",
+    "Stigmata": "Seele: Herrscher of Rebirth",
+    "Buffs": [
+      {
+        "Effect": "Summons TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Combo ATK vulnerability",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Valkyrie Chariot"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Spirits",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Rising Sun",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Soothingness",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Shared Destiny",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Decay",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Desireless, Mindless, and Homeless",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Rebirth Life Binder",
+    "Weapon": "Life Harvester's Path: Shared Destiny",
+    "Stigmata": "Seele: Herrscher of Rebirth",
+    "Buffs": [
+      {
+        "Effect": "RPC",
+        "Cost": 0
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Summons TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Starlit Astrologos"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Soothingness",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Shared Destiny",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Spirits",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Decay",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rising Sun",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Man, Mask, and Contract",
+        "Burden, Difficulty, and Calamity"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Days Gone",
+          "No One to Share",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      }
+    ]
+  }
+]
