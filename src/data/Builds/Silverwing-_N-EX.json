@@ -1,0 +1,103 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Falcon Flare: FINAL",
+    "Stigmata": "Bronya: N-EX",
+    "Buffs": [
+      {
+        "Effect": "",
+        "Cost": -1
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Haxxor Bunny"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Veil of Tears",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Good Old Days",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Phantom Plumes",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Grey Falcon",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Pale Feathers",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Silver Eagle",
+        "Recommendation": "Reinforcement"
+      },
+      {
+        "Name": "Blessing of Sharp Eyes",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Discipline",
+      "Owner": "Aponia",
+      "Signet": [
+        "First, No Betrayal",
+        "Third, No Brutality",
+        "Sixth, No Decadence",
+        "You Shall Be Subject to Numerous Disciplines (Nexus)",
+        "You Shall Be Bound by Thy Body"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Dibba-Cakkhu",
+          "Motto of Ceto-Pariya-Nana",
+          "Motto of Iddhi-Vidha",
+          "Motto of Bodhi (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+    ]
+  }
+]
