@@ -1,0 +1,129 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Miracle Kissy Pillow",
+    "Stigmata": "Paganini",
+    "Buffs": [
+      {
+        "Effect": "Huodou",
+        "Cost": 0
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Melee vulnerability",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Blood Rose",
+        "Support2": "Starlit Astrologos"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "It Will Be Written"
+      },
+      "1st Shop": {
+        "General": "Burden",
+        "Support": "Hometown"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Hometown"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Revolution",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Skyfall",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rupture",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Impulse",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Brake",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
+        "Signet": [
+          "Goblet of the Giver",
+          "Pendant of the Watcher",
+          "Mask of the Predator",
+          "Rochet of the Pilgrim",
+          "Blade of the Deliverer (Nexus)",
+          "Flock of the Deliverer"
+        ]
+      },
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Kiku",
+          "Bountiful Blossom: Fuji",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Daybreak",
+        "Owner": "Kosma",
+        "Signet": [
+          "Talons that Desecrate the Santuary",
+          "Wings that Mask the Sanguine Moon",
+          "Horns that Rip the Bleak Sky",
+          "Eyes that Overlook the Vicious Abyss",
+          "Heart that Committed Seven Crimes",
+          "Daybreak, an Undying Light (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
