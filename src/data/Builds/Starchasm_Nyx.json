@@ -1,0 +1,104 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Sanguine Gaze: Union",
+    "Stigmata": "Verne",
+    "Buffs": [
+      {
+        "Effect": "",
+        "Cost": -1
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Memory",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Because of You"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Frigidity",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Toxic Bath",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Abyssal Gaze",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Cocoon Break",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Nightmare",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Interlude: Reversed Spiral (Nexus)",
+        "Act VIII: Adorned Chamber",
+        "Finale: Broken Truth"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Daybreak",
+        "Owner": "Kosma",
+        "Signet": [
+          "Wings that Mask the Sanguine Moon",
+          "Horns that Rip the Bleak Sky",
+          "Heart that Committed Seven Crimes",
+          "Daybreak, an Undying Light (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Desireless, Mindless, and Homeless",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+    ]
+  }
+]
