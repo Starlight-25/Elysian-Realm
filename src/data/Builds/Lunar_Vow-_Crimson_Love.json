@@ -1,0 +1,251 @@
+[
+  {
+    "Build Name": "Lunar Vow: Crimson Love basic",
+    "Weapon": "Bloodied Casket: Tough Love",
+    "Stigmata": "Darkness Illuminated",
+    "Buffs": [
+      {
+        "Effect": "Pishacha",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Trauma DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Reverist Calico"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Vessel",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Lasting Embrace",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Hermit",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Chase",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Divine Pact",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Lunar Vow: Crimson Love weapon",
+    "Weapon": "Bloodied Casket: Tough Love",
+    "Stigmata": "Darkness Illuminated",
+    "Buffs": [
+      {
+        "Effect": "Cruising Tribunal",
+        "Cost": 0
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Max HP DMG buff",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Blood Rose",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Reverist Calico"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Chase",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Divine Pact",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Hermit",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Vessel",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Lasting Embrace",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act I: Magic",
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act VI: Sneer",
+        "Interlude: Reversed Spiral (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
