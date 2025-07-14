@@ -1,5 +1,137 @@
 ﻿[
   {
+    "Build Name": "Vermillion Knight: Eclipse",
+    "Weapon": "Shuhadaku of Uriel",
+    "Stigmata": "Little Joys",
+    "Buffs": [
+      {
+        "Effect": "Homu Magician",
+        "Cost": 0
+      },
+      {
+        "Effect": "SP+30",
+        "Cost": 5
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Out of Stellar Outburst TDM bonus",
+        "Cost": 10
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Sharp Flames",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Fiery Mind",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Wild Flare",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blaze",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Burning Flow",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
+        "Signet": [
+          "Goblet of the Giver",
+          "Pendant of the Watcher",
+          "Brand of the Undead",
+          "Rochet of the Pilgrim",
+          "Blade of the Deliverer (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Yellow & Warm",
+          "Black & Dark"
+        ]
+      }
+    ]
+  },
+  {
     "Build Name": "Vermillion Knight: Eclipse charge",
     "Weapon": "Shuhadaku of Uriel",
     "Stigmata": "Ragna",
@@ -93,26 +225,164 @@
         ]
       },
       {
-        "Name": "Signets of",
-        "Owner": "",
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
         "Signet": [
-          ""
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Desireless, Mindless, and Homeless",
+          "Fight, Struggle, and Decimation (Nexus)"
         ]
       },
       {
-        "Name": "Signets of",
-        "Owner": "",
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
         "Signet": [
-          ""
+          "Red & Hot",
+          "Yellow & Warm",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
         ]
       }
     ],
     "Optional Signets": [
       {
-        "Name": "Signets of",
-        "Owner": "",
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
         "Signet": [
-          ""
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Vermillion Knight: Eclipse ulti",
+    "Weapon": "Shuhadaku of Uriel",
+    "Stigmata": "Little Joys",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "TDM bonus if no damage taken",
+        "Cost": 10
+      },
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Sharp Flames",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Wild Flare",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Fiery Mind",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Burning Flow",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blaze",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Ceto-Pariya-Nana",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
+        "Signet": [
+          "Goblet of the Giver",
+          "Pendant of the Watcher",
+          "Brand of the Undead",
+          "Rochet of the Pilgrim",
+          "Blade of the Deliverer (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Yellow & Warm",
+          "Black & Dark"
         ]
       }
     ]
