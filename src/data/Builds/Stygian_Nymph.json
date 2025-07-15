@@ -1,0 +1,105 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Path to Acheron: Kindred",
+    "Stigmata": "Bianka: Theatre",
+    "Buffs": [
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Summons TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Snowy Sniper"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forget-Me-Not",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Fragile Friend",
+        "Support": "It WIll Be Written"
+      },
+      "16F": {
+        "General": "Stained Sakura",
+        "Support": "Tsukimi Himiko"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Vulnerable Duality",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Intergrowth",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Union",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Kindred",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Might of Duality",
+        "Recommendation": "2nd"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Daybreak",
+      "Owner": "Kosma",
+      "Signet": [
+        "Wings that Mask the Sanguine Moon",
+        "Horns that Rip the Bleak Sky",
+        "Heart that Committed Seven Crimes",
+        "Daybreak, an Undying Light (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "",
+        "Signet": [
+          "Long Trip",
+          "Days Gone",
+          "No One to Share",
+          "Vivid Vicissitude (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Desireless, Mindless, and Homeless",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Yellow & Warm",
+          "Black & Dark"
+        ]
+      }
+    ],
+    "Optional Signets": [
+    ]
+  }
+]
