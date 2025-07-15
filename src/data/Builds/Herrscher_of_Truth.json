@@ -1,0 +1,257 @@
+[
+  {
+    "Build Name": "Herrscher of Truth ulti",
+    "Weapon": "Falcon Flare: FINAL",
+    "Stigmata": "Bronya Zaychik",
+    "Buffs": [
+      {
+        "Effect": "Couatl: Revenant",
+        "Cost": 0
+      },
+      {
+        "Effect": "SP cap up",
+        "Cost": 5
+      },
+      {
+        "Effect": "Different support type bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Combo ATK bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Rainbow of Absence",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Forbidden Seed",
+        "Support": "Boundless Logos"
+      },
+      "16F": {
+        "General": "Thorny Crown",
+        "Support": "Boundless Logos"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Intellect Core",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Geniune Solution",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Vector",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Konstruktion",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Continuation",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Stars",
+      "Owner": "Griseo",
+      "Signet": [
+        "Red & Hot",
+        "Blue & Cold",
+        "Yellow & Warm",
+        "Black & Dark",
+        "Shining Like Stars (Nexus)",
+        "Blooming Like Flowers",
+        "Burning Like Flames",
+        "Stretching Like Leaves"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)",
+          "Improvised Drama",
+          "Setsuna Paw"
+        ]
+      },
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Truth weapon",
+    "Weapon": "Falcon Flare: FINAL",
+    "Stigmata": "Bronya Zaychik",
+    "Buffs": [
+      {
+        "Effect": "MHT-3B",
+        "Cost": 0
+      },
+      {
+        "Effect": "Different type support bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Elemental DMG",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon skill / Combo TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Bright Knight: Excelsis",
+        "Support2": "Vermilion Knight: Eclipse"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forbidden Seed",
+        "Support": "Boundless Logos"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Boundless Logos"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Boundless Logos"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Konstruktion",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Continuation",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Vector",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Intellect Core",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Geniune Solution",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Infinity",
+      "Owner": "Mobius",
+      "Signet": [
+        "Rodent [V]",
+        "Entwined [P]",
+        "Lip Poison [E]",
+        "Infinite [X] (Nexus)",
+        "Dead [X]",
+        "Unknown [X]",
+        "Newborn [X]"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Merchant's Philosophy",
+          "Shiny & Valuable",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks"
+        ]
+      }
+    ]
+  }
+]
