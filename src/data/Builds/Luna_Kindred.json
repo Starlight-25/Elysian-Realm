@@ -1,0 +1,116 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Hekate's Sombre",
+    "Stigmata": "Dracula",
+    "Buffs": [
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Stygian Nymph",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Divine Prayer",
+        "Support2": "Lightning Empress"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Veil of Tears",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Penumbra",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Blood Feast",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Imprint",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Immortality",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Thirst",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Man, Mask, and Contract",
+        "Burden, Difficulty, and Calamity"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Grey & Empty"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]"
+        ]
+      }
+    ]
+  }
+]
