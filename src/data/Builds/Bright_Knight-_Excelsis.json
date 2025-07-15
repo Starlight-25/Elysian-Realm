@@ -1,0 +1,117 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Abyss Flower: Liminal Spiral",
+    "Stigmata": "Dante",
+    "Buffs": [
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Stygian Nymph",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forget-Me-Not",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Rainbow of Absence",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Stained Sakura",
+        "Support": "Tsukimi Himiko"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Gambit",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Glory",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Paragon",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Formation",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Holy Lance",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Setsuna",
+      "Owner": "Sakura",
+      "Signet": [
+        "Bountiful Blossom: Koyo",
+        "Bountiful Blossom: Botan",
+        "Bountiful Blossom: Kiku",
+        "Bountiful Blossom: Fuji",
+        "Setsuna Blade: Yasha (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Daybreak",
+        "Owner": "Kosma",
+        "Signet": [
+          "Wings that Mask the Sanguine Moon",
+          "Horns that Rip the Bleak Sky",
+          "Heart that Committed Seven Crimes",
+          "Daybreak, an Undying Light (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "Third, No Brutality",
+          "Fourth, No Insolence",
+          "You Shall Be Subject to Numerous (Nexus)"
+        ]
+      }
+    ]
+  }
+]
