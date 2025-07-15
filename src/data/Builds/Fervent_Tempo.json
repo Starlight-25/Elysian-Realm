@@ -1,0 +1,117 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Sleeper's Dream",
+    "Stigmata": "Michelangelo",
+    "Buffs": [
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Summons TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Rainbow of Absence",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Veil of Tears",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Silence",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Mixing",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Fervor",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Solitude",
+        "Recommendation": "Reinforcement"
+      },
+      {
+        "Name": "Blessing of Thorns",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Stars",
+      "Owner": "Griseo",
+      "Signet": [
+        "Red & Hot",
+        "Yellow & Warm",
+        "Black & Dark",
+        "Grey & Empty",
+        "Shining Like Stars (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "Fourth, No Insolence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
+        "Signet": [
+          "Goblet of the Giver",
+          "Pendant of the Watcher",
+          "Mask of the Predator",
+          "Rochet of the Pilgrim",
+          "Blade of the Deliverer (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
