@@ -1,0 +1,108 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Dawn Breaker: Talwar",
+    "Stigmata": "Dirac",
+    "Buffs": [
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Lightning Empress",
+        "Support2": "Stygian Nymph"
+      },
+      "Damage": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Snowy Sniper"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Burden",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Current",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Karma",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Idea",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Thunder",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Zanshin",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Deliverance",
+      "Owner": "Kevin",
+      "Signet": [
+        "Goblet of the Giver",
+        "Brand of the Undead",
+        "Artifact of the Inhibitor",
+        "Rochet of the Pilgrim",
+        "Blade of the Deliverer (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "Fourth, No Insolence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+    ]
+  }
+]
