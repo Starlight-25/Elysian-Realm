@@ -1,0 +1,121 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Midnight Ataegina",
+    "Stigmata": "Bianka: Theatre",
+    "Buffs": [
+      {
+        "Effect": "At max HP gain 1sp/s",
+        "Cost": 5
+      },
+      {
+        "Effect": "TDM+15% until damage taken",
+        "Cost": 10
+      },
+      {
+        "Effect": "SP usage vulnerability",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Rainbow of Absence",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Veil of Tears",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Exodus",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Abyssal Chant",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Equinox",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Commitment",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Gallop",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Stars",
+      "Owner": "Griseo",
+      "Signet": [
+        "Red & Hot",
+        "Blue & Cold",
+        "Yellow & Warm",
+        "Black & Dark",
+        "Grey & Empty",
+        "Shining Like Stars (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Fifth, No Falsehood",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)",
+          "You Shall Be Witnessed by Thy Heart"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act IV: Spoon",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Days Gone",
+          "Vivid Vicissitude (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Kiku"
+        ]
+      }
+    ]
+  }
+]
