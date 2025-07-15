@@ -1,0 +1,115 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Positron Blasters",
+    "Stigmata": "Elysia",
+    "Buffs": [
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Stygian Nymph",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Veil of Tears",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Burden",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Hometown"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Prosperity",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Dawn",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Blossom",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Fertility",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Torch",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Discipline",
+      "Owner": "Aponia",
+      "Signet": [
+        "First, No Betrayal",
+        "Third, No Brutality",
+        "Fifth, No Falsehood",
+        "You Shall Be Subject to Numerous Disciplines (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
+        "Signet": [
+          "Goblet of the Giver",
+          "Pendant of the Watcher",
+          "Mask of the Predator",
+          "Blade of the Deliverer (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
