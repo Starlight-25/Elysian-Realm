@@ -1,0 +1,107 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Eos Gloria",
+    "Stigmata": "Leeuwenhoek",
+    "Buffs": [
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Midnight Absinthe"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Veil of Tears",
+        "Support": "The Lonely Moon"
+      },
+      "16F": {
+        "General": "Proof of Good and Evil",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Battle Song",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Gloria",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Triumph",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Impetus",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Sol",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Discipline",
+      "Owner": "Aponia",
+      "Signet": [
+        "Third, No Brutality",
+        "Fourth, No Insolence",
+        "Fifth, No Falsehood",
+        "You Shall Be Subject to Numerous Disciplines (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+    ]
+  }
+]
