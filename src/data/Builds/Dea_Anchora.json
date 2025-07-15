@@ -1,0 +1,126 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Sagittarius Astra",
+    "Stigmata": "Leeuwenhoek",
+    "Buffs": [
+      {
+        "Effect": "RPC-6626 weak to ele",
+        "Cost": 0
+      },
+      {
+        "Effect": "Valk type matching enemy +TDM",
+        "Cost": 5
+      },
+      {
+        "Effect": "Ignite or para, valk +dmg",
+        "Cost": 10
+      },
+      {
+        "Effect": "Same type support valk + breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Burden",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Veil of Tears",
+        "Support": "Because of You"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Stars",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Sheen",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Halo",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Gale",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Brilliance",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Deliverance",
+      "Owner": "Kevin",
+      "Signet": [
+        "Goblet of the Giver",
+        "Brand of the Undead",
+        "Artifact of the Inhibitor",
+        "Rochet of the Pilgrim",
+        "Blade of the Deliverer (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "Third, No Brutality",
+          "Fourth, No Insolence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)",
+          "You Shall Be Bound by Thy Body",
+          "You Shall Be Witnessed by Thy Heart"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
