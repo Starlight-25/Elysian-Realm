@@ -1,0 +1,115 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Obscuring Wing",
+    "Stigmata": "Aslaug",
+    "Buffs": [
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Veil of Tears",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Good Old Days",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Ominous Mist",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Arrowhead",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Wild Hunt",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Suppression",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Raven Plume",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act V: Spider Web",
+        "Interlude: Reversed Spiral (Nexus)",
+        "Act VIII: Adorned Chamber",
+        "Finale: Broken Truth"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "Second, No Deception", "Fourth, No Insolence", "Fifth, No Falsehood", "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      }
+    ]
+  }
+]
