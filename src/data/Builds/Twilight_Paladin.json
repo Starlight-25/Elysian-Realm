@@ -1,0 +1,118 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Hekate's Sombre",
+    "Stigmata": "Kafka",
+    "Buffs": [
+      {
+        "Effect": "Max HP breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Stygian Nymph"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Veil of Tears",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Good Old Days",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Banishment",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Penalty",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Blessing of Dusk",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Blessing of Radiance",
+        "Recommendation": "Reinforcement"
+      },
+      {
+        "Name": "Blessing of Sanction",
+        "Recommendation": "Reinforcement"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Fourth, No Insolence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)",
+          "You Shall Be Bound by Thy Body"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
