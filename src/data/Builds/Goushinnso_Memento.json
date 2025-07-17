@@ -1,0 +1,117 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Frozen Naraka",
+    "Stigmata": "Ana Schariac",
+    "Buffs": [
+      {
+        "Effect": "Weapon skill TDM bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Haxxor Bunny"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Fragile Friend",
+        "Support": "Out of Reach"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Hometown"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Hometown"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Blessing of Flourish",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Whiteout",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Blessing of Haste",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Icy Sakura",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Blessing of Frozen Cloud",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Daybreak",
+      "Owner": "Kosma",
+      "Signet": [
+        "Talons that Desecrate the Santuary",
+        "Wings that Mask the Sanguine Moon",
+        "Horns that Rip the Bleak Sky",
+        "Heart that Committed Seven Crimes",
+        "Daybreak, an Undying Light (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Days Gone",
+          "No One to Share",
+          "Vivid Vicissitude (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Fifth, No Falsehood",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      }
+    ]
+  }
+]
