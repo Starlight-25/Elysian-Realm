@@ -1,6 +1,6 @@
 [
   {
-    "Build Name": null,
+    "Build Name": "Herrscher of Sentience",
     "Weapon": "Domain of Sentience",
     "Stigmata": "Pericles",
     "Buffs": [
@@ -120,6 +120,133 @@
           "Back-Curled Tail",
           "Neighborhood Chatters",
           "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Sentience brick",
+    "Weapon": "Incredibly Infinite Intimidator",
+    "Stigmata": "Pericles",
+    "Buffs": [
+      {
+        "Effect": "Valrahal",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Ultimate Evasion dmg bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Nexus Lightning DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Lightning Empress",
+        "Support2": "Stygian Nymph"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Starlit Astrologos"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forbidden Seed",
+        "Support": "The Lonely Moon"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Ego",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Victory",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Legion",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Dark Plumes",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Supremacy",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Infinity",
+      "Owner": "Mobius",
+      "Signet": [
+        "Rodent [V]",
+        "Entwined [P]",
+        "Lip Poison [E]",
+        "Infinite [X] (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Daybreak",
+        "Owner": "Kosma",
+        "Signet": [
+          "Wings that Mask the Sanguine Moon",
+          "Horns that Rip the Bleak Sky",
+          "Heart that Committed Seven Crimes",
+          "Daybreak, an Undying Light (Nexus)"
         ]
       }
     ]
