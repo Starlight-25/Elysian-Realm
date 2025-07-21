@@ -1,0 +1,366 @@
+[
+  {
+    "Build Name": "Herrscher of Finality Normal",
+    "Weapon": "Waxing Moon: Incipience",
+    "Stigmata": "Kiana Kaslana",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Variable Arms buff",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Midnight Absinthe"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Memory",
+        "Support": "Hometown"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Condescension",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "High Flames",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Finale Moon",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Clarity",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Rift",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Vicissitude",
+      "Owner": "Hua",
+      "Signet": [
+        "Long Trip",
+        "Dark Garb No More",
+        "Old Dreams Again",
+        "Vivid Vicissitude (Nexus)",
+        "Forgotten and Forsaken"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Finality ulti",
+    "Weapon": "Waxing Moon: Incipience",
+    "Stigmata": "Kiana Kaslana",
+    "Buffs": [
+      {
+        "Effect": "Andrius",
+        "Cost": 0
+      },
+      {
+        "Effect": "Combo and weapon skill DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Midnight Absinthe"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Finale Moon",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Rift",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Clarity",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "High Flames",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Condescension",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act VI: Sneer",
+        "Interlude: Reversed Spiral (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Finality combo",
+    "Weapon": "Waxing Moon: Incipience",
+    "Stigmata": "Kiana Kaslana",
+    "Buffs": [
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon active vulnerability",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Bright Knight: Excelsis",
+        "Support2": "Vermilion Knight: Eclipse"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Midnight Absinthe"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Condescension",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "High Flames",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Clarity",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Finale Moon",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Rift",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anitya",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act IV: Spoon",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ]
+  }
+]
