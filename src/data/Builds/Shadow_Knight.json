@@ -1,0 +1,130 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Nuada's Revenge",
+    "Stigmata": "Darkness Illuminated",
+    "Buffs": [
+      {
+        "Effect": "Valrahal",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Ultimate Evasion dmg bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Nexus Lightning DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Snowy Sniper"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Lunar Eclipse",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Forces",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Mindfulness",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Form & Spirit",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Six Fists",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Man, Mask, and Contract"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Fuji",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      }
+    ]
+  }
+]
