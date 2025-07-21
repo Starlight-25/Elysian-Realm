@@ -1,0 +1,247 @@
+[
+  {
+    "Build Name": "Schicksal's Imperative astral ring",
+    "Weapon": "Vacation Notice: Emergency Overtime",
+    "Stigmata": "Day After Day",
+    "Buffs": [
+      {
+        "Effect": "Valrahal",
+        "Cost": 0
+      },
+      {
+        "Effect": "Nexus Lightning DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Reverist Calico"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "1st Shop": {
+        "General": "Forbidden Seed",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Annual Leave",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Day Off Work",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Work's End",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Saturday",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Sunday",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "Fifth, No Falsehood",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Schicksal's Imperative sleepy",
+    "Weapon": "Vacation Notice: Emergency Overtime",
+    "Stigmata": "Day After Day",
+    "Buffs": [
+      {
+        "Effect": "Valrahal",
+        "Cost": 0
+      },
+      {
+        "Effect": "Nexus Lightning DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Fallen Rosemary"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forbidden Seed",
+        "Support": "Out of Reach"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Out of Reach"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Saturday",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Sunday",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Work's End",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Annual Leave",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Day Off Work",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Infinity",
+      "Owner": "Mobius",
+      "Signet": [
+        "Rodent [V]",
+        "Entwined [P]",
+        "Lip Poison [E]",
+        "Infinite [X] (Nexus)",
+        "Dead [X]",
+        "Newborn [X]"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "Third, No Brutality",
+          "Fourth, No Insolence",
+          "Fifth, No Falsehood",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
