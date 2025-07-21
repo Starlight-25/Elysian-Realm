@@ -1,0 +1,129 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Nocturnal Stealth: Beam",
+    "Stigmata": "Li Sushang: Shenzhou Reminiscence",
+    "Buffs": [
+      {
+        "Effect": "MHT-3B",
+        "Cost": 0
+      },
+      {
+        "Effect": "Max HP+500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Elemental DMG",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon skill / Combo TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Lightning Empress",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Lightning Empress",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Hometown"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Great Blade",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Cloudwalker",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Jade Moon",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Shaft",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Smoky Waft",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Good Wine",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
