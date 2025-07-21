@@ -1,0 +1,242 @@
+[
+  {
+    "Build Name": "Jovial Deception: Shadowdimmer astral ring",
+    "Weapon": "Purge of Ten Faces: Axial Shif",
+    "Stigmata": "Leaf's Visions",
+    "Buffs": [
+      {
+        "Effect": "Support type DMG bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill TDM bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Mad Pleasure: Shadowbringer",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Lingering Shadows",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Divination",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Premonition",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Summonings",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Ambush",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act I: Magic",
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act V: Spider Web",
+        "Interlude: Reversed Spiral (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Jovial Deception: Shadowdimmer no astral ring",
+    "Weapon": "Purge of Ten Faces: Axial Shif",
+    "Stigmata": "Leaf's Visions",
+    "Buffs": [
+      {
+        "Effect": "Weapon skill / Combo TDM bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Starlit Astrologos"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Summonings",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Ambush",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Premonition",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Lingering Shadows",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Divination",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act IV: Spoon",
+        "Act V: Spider Web",
+        "Interlude: Reversed Spiral (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
