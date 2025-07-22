@@ -1,0 +1,131 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Lost Conviction: Damnation",
+    "Stigmata": "Linnaeus",
+    "Buffs": [
+      {
+        "Effect": "HoD",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Evasion DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Nexus Phys DMG bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Lightning Empress",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Azure Empyrea"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forbidden Seed",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Forget-Me-Not",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Ruined Legacy",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Admonition",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Shelter",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Inclusiveness",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Atonement",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Rescue",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Infinity",
+      "Owner": "Mobius",
+      "Signet": [
+        "Rodent [V]",
+        "Entwined [P]",
+        "Lip Poison [E]",
+        "Infinite [X] (Nexus)",
+        "Dead [X]",
+        "Newborn [X]"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Kiku",
+          "Bountiful Blossom: Fuji",
+          "Bountiful Blossom: Ayame",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "Fourth, No Insolence",
+          "Fifth, No Falsehood",
+          "Sixth, No Decadence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade"
+        ]
+      }
+    ]
+  }
+]
