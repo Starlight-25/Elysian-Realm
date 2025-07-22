@@ -1,0 +1,126 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Domain of Incandescence",
+    "Stigmata": "Murata Himeko",
+    "Buffs": [
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Evasion DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Vermilion Knight: Eclipse",
+        "Support2": "Azure Empyrea"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Midnight Absinthe"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Heatflow",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Starfire",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Reburn",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Tempered Warrior",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Flamescion",
+        "Recommendation": "Optional"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Man, Mask, and Contract",
+        "Burden, Difficulty, and Calamity"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Fuji",
+          "Setsuna Blade: Yasha (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ]
+  }
+]
