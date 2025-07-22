@@ -1,0 +1,129 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Elysian Astra: Heart's Color",
+    "Stigmata": "Cezanne",
+    "Buffs": [
+      {
+        "Effect": "Homu Magician",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Out of Stellar Outburst TDM bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Starlit Astrologos"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Fragile Friend",
+        "Support": "Out of Reach"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Tin Flask",
+        "Support": "Out of Reach"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "River Forest",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Starry Night",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Cloud Valley",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Feathers",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Azure Wind",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Daybreak",
+      "Owner": "Kosma",
+      "Signet": [
+        "Talons that Desecrate the Santuary",
+        "Wings that Mask the Sanguine Moon",
+        "Horns that Rip the Bleak Sky",
+        "Eyes that Overlook the Vicious Abyss",
+        "Heart that Committed Seven Crimes",
+        "Daybreak, an Undying Light (Nexus)",
+        "Unbending Hero"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Days Gone",
+          "No One to Share",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ]
+  }
+]
