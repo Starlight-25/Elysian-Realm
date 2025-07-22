@@ -1,0 +1,258 @@
+[
+  {
+    "Build Name": "Ba-Dum! Fiery Wishing Star basic",
+    "Weapon": "Fortuitous Red: Dreams Come True",
+    "Stigmata": "Happy Days Ahead",
+    "Buffs": [
+      {
+        "Effect": "Homu Magician",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Out of Stellar Outburst TDM bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Great Fortune",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Dazzling Joy",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Serendipitous Luck",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Fulfilled Wishes",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Pleasant Dreams",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anitya",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "Fifth, No Falsehood",
+          "Sixth, No Decadence",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)",
+          "You Shall Be Bound by Thy Body"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Ba-Dum! Fiery Wishing Star jumping drums",
+    "Weapon": "Fortuitous Red: Dreams Come True",
+    "Stigmata": "Happy Days Ahead",
+    "Buffs": [
+      {
+        "Effect": "Homu Magician",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Out of Stellar Outburst TDM bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forget-Me-Not",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Gold Goblet",
+        "Support": "Boundless Logos"
+      },
+      "16F": {
+        "General": "Key to the Deep",
+        "Support": "Boundless Logos"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Fulfilled Wishes",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Pleasant Dreams",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Serendipitous Luck",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Great Fortune",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Dazzling Joy",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Setsuna",
+      "Owner": "Sakura",
+      "Signet": [
+        "Bountiful Blossom: Koyo",
+        "Bountiful Blossom: Botan",
+        "Bountiful Blossom: Fuji",
+        "Setsuna Blade: Yasha (Nexus)",
+        "Setsuna Blade: Shinra Bansho",
+        "Setsuna Blade: Mumyo"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)",
+          "Aria of Dawn"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
