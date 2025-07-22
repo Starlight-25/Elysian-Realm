@@ -1,0 +1,124 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Basilisk's Image: Deathshroud",
+    "Stigmata": "Linnaeus",
+    "Buffs": [
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Evasion DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Summon and weapon skill TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Lightning Empress"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Reverist Calico"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Forbidden Seed",
+        "Support": "Boundless Logos"
+      },
+      "1st Shop": {
+        "General": "Memory",
+        "Support": "Boundless Logos"
+      },
+      "16F": {
+        "General": "Ruined Legacy",
+        "Support": "Boundless Logos"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Dark Assault",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Ascension",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Ill Fortune",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Ravenousness",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Mirage",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Infinity",
+      "Owner": "Mobius",
+      "Signet": [
+        "Rodent [V]",
+        "Entwined [P]",
+        "Lip Poison [E]",
+        "Infinite [X] (Nexus)",
+        "Dead [X]",
+        "Newborn [X]"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
+        "Signet": [
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Ayame"
+        ]
+      }
+    ]
+  }
+]
