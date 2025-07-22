@@ -1,0 +1,127 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Twirling Glaze: Lustrous Bloom",
+    "Stigmata": "Aladdin",
+    "Buffs": [
+      {
+        "Effect": "HoD",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Nexus Phys DMG bonus",
+        "Cost": 5
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Bright Knight: Excelsis"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Starlit Astrologos"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Fragile Friend",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Out of Reach"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Out of Reach"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Dappled Shade",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Luster",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Rarities",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Whimsy",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Tambourine",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Daybreak",
+      "Owner": "Kosma",
+      "Signet": [
+        "Talons that Desecrate the Santuary",
+        "Wings that Mask the Sanguine Moon",
+        "Horns that Rip the Bleak Sky",
+        "Eyes that Overlook the Vicious Abyss",
+        "Daybreak, an Undying Light (Nexus)",
+        "Unbending Hero",
+        "Unwavering Promise"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act VI: Sneer",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Black & Dark"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
