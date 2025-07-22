@@ -1,0 +1,253 @@
+[
+  {
+    "Build Name": "Reign Solaris normal",
+    "Weapon": "Valorous Effulgence: New Voyage",
+    "Stigmata": "Illuminating the Universe",
+    "Buffs": [
+      {
+        "Effect": "Pishacha",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Different support type DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Empty like Shala"
+      },
+      "1st Shop": {
+        "General": "Gold Goblet",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Daylight",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Iridescence",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Everlasting Radiance",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Dominance",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Perseverance",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anitya",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "Fourth, No Insolence",
+          "Fifth, No Falsehood",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)",
+          "You Shall Be Bound by Thy Body",
+          "You Shall Be Witnessed by Thy Heart"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)",
+          "Burden, Difficulty, and Calamity"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Reign Solaris charge",
+    "Weapon": "Valorous Effulgence: New Voyage",
+    "Stigmata": "Illuminating the Universe",
+    "Buffs": [
+      {
+        "Effect": "HoD",
+        "Cost": 0
+      },
+      {
+        "Effect": "Nexus Phys DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Snowy Sniper"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "1st Shop": {
+        "General": "Gold Goblet",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Dominance",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Perseverance",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Everlasting Radiance",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Daylight",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Iridescence",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Helix",
+      "Owner": "Vill-V",
+      "Signet": [
+        "Act II: Pendulum",
+        "Act III: Conflict",
+        "Act IV: Spoon",
+        "Interlude: Reversed Spiral (Nexus)",
+        "Act VII: Half-Closed Door",
+        "Act VIII: Adorned Chamber"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Discipline",
+        "Owner": "Aponia",
+        "Signet": [
+          "First, No Betrayal",
+          "Third, No Brutality",
+          "Fifth, No Falsehood",
+          "You Shall Be Subject to Numerous Disciplines (Nexus)"
+        ]
+      }
+    ]
+  }
+]
