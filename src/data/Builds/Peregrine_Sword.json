@@ -1,0 +1,249 @@
+[
+  {
+    "Build Name": "Peregrine Sword astral ring",
+    "Weapon": "Jadeite Sleeves: Windward",
+    "Stigmata": "Li Sushang: Peregrine Sword",
+    "Buffs": [
+      {
+        "Effect": "Pishacha",
+        "Cost": 0
+      },
+      {
+        "Effect": "Trauma DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Blood Rose"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Emerald Edge",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Gallant Hero",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Five Flavors",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Leisurely Mood",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Riding Winds",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anitya",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Grey & Empty",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Interlude: Reversed Spiral (Nexus)",
+          "Act VII: Half-Closed Door"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Peregrine Sword no astral ring",
+    "Weapon": "Jadeite Sleeves: Windward",
+    "Stigmata": "Li Sushang: Peregrine Sword",
+    "Buffs": [
+      {
+        "Effect": "Pishacha",
+        "Cost": 0
+      },
+      {
+        "Effect": "Trauma DMG bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Starlit Astrologos",
+        "Support2": "Blood Rose"
+      },
+      "Damage": {
+        "Support1": "Snowy Sniper",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Faraway Ship",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Leisurely Mood",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Riding Winds",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Five Flavors",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Emerald Edge",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Gallant Hero",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Bodhi",
+      "Owner": "Su",
+      "Signet": [
+        "Motto of Pubbe-Nivasanussati",
+        "Motto of Dibba-Cakkhu",
+        "Motto of Iddhi-Vidha",
+        "Motto of Asavakkhaya",
+        "Motto of Bodhi (Nexus)",
+        "Maxim of Anitya",
+        "Maxim of Anatman"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Interlude: Reversed Spiral (Nexus)",
+          "Act VII: Half-Closed Door"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
