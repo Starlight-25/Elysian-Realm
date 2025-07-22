@@ -1,0 +1,240 @@
+[
+  {
+    "Build Name": "Thousand-Faced Maestro: Cameo! ring",
+    "Weapon": "Volatile Sparkler: Floral Spectacle",
+    "Stigmata": "Sparkle: Thousand-Faced Maestro",
+    "Buffs": [
+      {
+        "Effect": "Summon and weapon skill TDM bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Vermilion Knight: Eclipse",
+        "Support2": "Midnight Absinthe"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Rainbow of Absence",
+        "Support": "Dreamful Gold"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Dreamful Gold"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Deceit",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Dream Scales",
+        "Recommendation": "1st"
+      },
+      {
+        "Name": "Thousand-Faced",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Opulence",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Radiant Flames",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)",
+        "Aria of Soil",
+        "Aria of Dawn"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Thousand-Faced Maestro: Cameo! no ring",
+    "Weapon": "Volatile Sparkler: Floral Spectacle",
+    "Stigmata": "Sparkle: Thousand-Faced Maestro",
+    "Buffs": [
+      {
+        "Effect": "Summon and weapon skill TDM bonus",
+        "Cost": 15
+      },
+      {
+        "Effect": "Weapon type breach",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Vermilion Knight: Eclipse",
+        "Support2": "Midnight Absinthe"
+      },
+      "Damage": {
+        "Support1": "Deepspace Anchor: First Light",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Gold Goblet",
+        "Support": "Because of You"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Radiant Flames",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Thousand-Faced",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Opulence",
+        "Recommendation": "2nd"
+      },
+      {
+        "Name": "Deceit",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Dream Scales",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
+      "Signet": [
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)"
+        ]
+      }
+    ]
+  }
+]
