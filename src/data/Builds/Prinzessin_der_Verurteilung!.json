@@ -1,0 +1,127 @@
+[
+  {
+    "Build Name": null,
+    "Weapon": "Whisper of the Past: Sonnet",
+    "Stigmata": "Wang Zhenyi",
+    "Buffs": [
+      {
+        "Effect": "Parvati",
+        "Cost": 0
+      },
+      {
+        "Effect": "Variable Arms buff",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill Ele DMG bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Ultimate TDM bonus",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Valkyrie Chariot"
+      },
+      "Damage": {
+        "Support1": "Azure Empyrea",
+        "Support2": "Blood Rose"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Memory",
+        "Support": "Hometown"
+      },
+      "1st Shop": {
+        "General": "Pseudo Miracle",
+        "Support": "Falling in Past Light"
+      },
+      "16F": {
+        "General": "Ruined Legacy",
+        "Support": "Falling in Past Light"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Dark Wings",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Midnight",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Retribution",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Fate",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Nightfall",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Vicissitude",
+      "Owner": "Hua",
+      "Signet": [
+        "Long Trip",
+        "Dark Garb No More",
+        "Old Dreams Again",
+        "Vivid Vicissitude (Nexus)",
+        "Forgotten and Forsaken"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      },
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  }
+]
