@@ -133,24 +133,24 @@
     "Stigmata": "Fu Hua: Ordinary Day",
     "Buffs": [
       {
-        "Effect": "Parvati",
+        "Effect": "Benares",
         "Cost": 0
       },
       {
-        "Effect": "Variable Arms buff",
-        "Cost": 5
+        "Effect": "28 degrees",
+        "Cost": 0
       },
       {
         "Effect": "TDM bonus",
         "Cost": 5
       },
       {
-        "Effect": "Weapon skill Ele DMG bonus",
+        "Effect": "Outside Stellar Outburst",
         "Cost": 10
       },
       {
-        "Effect": "Outside Stellar Outburst",
-        "Cost": 10
+        "Effect": "Weapon type breach",
+        "Cost": 15
       }
     ],
     "Support": {
@@ -165,12 +165,12 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Memory",
-        "Support": "Hometownt"
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Pseudo Miracle",
-        "Support": "Falling in Past Light"
+        "General": "Memory",
+        "Support": "Dreamful Gold"
       },
       "16F": {
         "General": "Key to the Deep",
@@ -200,17 +200,29 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Vicissitude",
-      "Owner": "Hua",
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
       "Signet": [
-        "Long Trip",
-        "Dark Garb No More",
-        "Old Dreams Again",
-        "Vivid Vicissitude (Nexus)",
-        "Forgotten and Forsaken"
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
       ]
     },
     "Secondary Signets": [
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
       {
         "Name": "Signets of Helix",
         "Owner": "Vill-V",
@@ -222,23 +234,14 @@
         ]
       },
       {
-        "Name": "Signets of Stars",
-        "Owner": "Griseo",
+        "Name": "Signets of Setsuna",
+        "Owner": "Sakura",
         "Signet": [
-          "Red & Hot",
-          "Yellow & Warm",
-          "Black & Dark",
-          "Shining Like Stars (Nexus)"
-        ]
-      },
-      {
-        "Name": "Signets of Gold",
-        "Owner": "Eden",
-        "Signet": [
-          "Recitatif of Eden",
-          "Recitatif of Creeks",
-          "Recitatif of Fine Jade",
-          "Aria of Gold (Nexus)"
+          "Bountiful Blossom: Koyo",
+          "Bountiful Blossom: Botan",
+          "Bountiful Blossom: Kiku",
+          "Bountiful Blossom: Fuji",
+          "Setsuna Blade: Yasha (Nexus)"
         ]
       }
     ],

@@ -8,7 +8,7 @@ import "../styles/ImageHover.css";
 function Title() {
     return (<div className="home-title">
         <h1>Elysian Realm Guide</h1>
-        <h2>Recommended build v8.3</h2>
+        <h2>Recommended build v8.4</h2>
     </div>);
 }
 

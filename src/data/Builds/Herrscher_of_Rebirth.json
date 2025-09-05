@@ -5,15 +5,23 @@
     "Stigmata": "Seele: Herrscher of Rebirth",
     "Buffs": [
       {
+        "Effect": "Benares",
+        "Cost": 0
+      },
+      {
+        "Effect": "28 degrees",
+        "Cost": 0
+      },
+      {
         "Effect": "TDM bonus",
         "Cost": 5
       },
       {
-        "Effect": "Different support type DMG bonus",
+        "Effect": "Outside Stellar Outburst",
         "Cost": 10
       },
       {
-        "Effect": "Trauma DMG bonus",
+        "Effect": "Weapon type breach",
         "Cost": 15
       }
     ],
@@ -76,18 +84,39 @@
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Bodhi",
-        "Owner": "Su",
+        "Name": "Signets of Daybreak",
+        "Owner": "Kosma",
         "Signet": [
-          "Motto of Pubbe-Nivasanussati",
-          "Motto of Dibba-Cakkhu",
-          "Motto of Iddhi-Vidha",
-          "Motto of Asavakkhaya",
-          "Motto of Bodhi (Nexus)",
-          "Maxim of Anitya",
-          "Maxim of Anatman"
+          "Wings that Mask the Sanguine Moon",
+          "Horns that Rip the Bleak Sky",
+          "Heart that Committed Seven Crimes",
+          "Daybreak, an Undying Light (Nexus)",
+          "Unbending Hero"
         ]
       },
+      {
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
+        "Signet": [
+          "Long Trip",
+          "Days Gone",
+          "No One to Share",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
       {
         "Name": "Signets of Helix",
         "Owner": "Vill-V",
@@ -96,28 +125,6 @@
           "Act III: Conflict",
           "Act V: Spider Web",
           "Interlude: Reversed Spiral (Nexus)"
-        ]
-      },
-      {
-        "Name": "Signets of Reverie",
-        "Owner": "Pardofelis",
-        "Signet": [
-          "Motto of Meow",
-          "Back-Curled Tail",
-          "Neighborhood Chatters",
-          "Empty Dreams, Self, Set, and Joy (Nexus)"
-        ]
-      }
-    ],
-    "Optional Signets": [
-      {
-        "Name": "Signets of Infinity",
-        "Owner": "Mobius",
-        "Signet": [
-          "Rodent [V]",
-          "Entwined [P]",
-          "Lip Poison [E]",
-          "Infinite [X] (Nexus)"
         ]
       }
     ]

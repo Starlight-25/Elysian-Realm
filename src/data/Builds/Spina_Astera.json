@@ -5,30 +5,30 @@
     "Stigmata": "Fu Hua: Ordinary Day",
     "Buffs": [
       {
-        "Effect": "Parvati",
+        "Effect": "Benares",
         "Cost": 0
       },
       {
-        "Effect": "Variable Arms buff",
-        "Cost": 5
+        "Effect": "28 degrees",
+        "Cost": 0
       },
       {
         "Effect": "TDM bonus",
         "Cost": 5
       },
       {
-        "Effect": "Weapon skill Ele DMG bonus",
+        "Effect": "Outside Stellar Outburst",
         "Cost": 10
       },
       {
-        "Effect": "Outside Stellar Outburst",
-        "Cost": 10
+        "Effect": "Weapon type breach",
+        "Cost": 15
       }
     ],
     "Support": {
       "Utility": {
-        "Support1": "Vermilion Knight: Eclipse",
-        "Support2": "Bright Knight: Excelsis"
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Azure Empyrea"
       },
       "Damage": {
         "Support1": "Blood Rose",
@@ -37,21 +37,21 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Memory",
-        "Support": "Hometown"
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Pseudo Miracle",
-        "Support": "Falling in Past Light"
+        "General": "Memory",
+        "Support": "An Old Pal's Legacy"
       },
       "16F": {
-        "General": "Tin Flask",
+        "General": "Heavy as a Million Lives",
         "Support": "Dreamful Gold"
       }
     },
     "Ego Signets": [
       {
-        "Name": "Wild Flare",
+        "Name": "Star Quillon",
         "Recommendation": "Start"
       },
       {
@@ -67,30 +67,44 @@
         "Recommendation": "No"
       },
       {
-        "Name": "Star Quillon",
+        "Name": "Wild Flare",
         "Recommendation": "No"
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Vicissitude",
-      "Owner": "Hua",
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
       "Signet": [
-        "Long Trip",
-        "Dark Garb No More",
-        "Old Dreams Again",
-        "Vivid Vicissitude (Nexus)",
-        "Forgotten and Forsaken"
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity"
       ]
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Helix",
-        "Owner": "Vill-V",
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
         "Signet": [
-          "Act II: Pendulum",
-          "Act III: Conflict",
-          "Act V: Spider Web",
-          "Interlude: Reversed Spiral (Nexus)"
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
         ]
       },
       {
@@ -101,16 +115,6 @@
           "Yellow & Warm",
           "Black & Dark",
           "Shining Like Stars (Nexus)"
-        ]
-      },
-      {
-        "Name": "Signets of Decimation",
-        "Owner": "Kalpas",
-        "Signet": [
-          "Blade, Grave, and Scar",
-          "Bone, Blood, and Ribbon",
-          "Path, Misfortune, and Written Fate",
-          "Fight, Struggle, and Decimation (Nexus)"
         ]
       }
     ],

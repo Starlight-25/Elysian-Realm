@@ -5,24 +5,24 @@
     "Stigmata": "Handel",
     "Buffs": [
       {
-        "Effect": "Parvati",
+        "Effect": "Benares",
         "Cost": 0
       },
       {
-        "Effect": "Variable Arms buff",
-        "Cost": 5
+        "Effect": "28 degrees",
+        "Cost": 0
       },
       {
         "Effect": "TDM bonus",
         "Cost": 5
       },
       {
-        "Effect": "Weapon skill Ele DMG bonus",
+        "Effect": "Outside Stellar Outburst",
         "Cost": 10
       },
       {
-        "Effect": "Outside Stellar Outburst",
-        "Cost": 10
+        "Effect": "Weapon type breach",
+        "Cost": 15
       }
     ],
     "Support": {
@@ -37,12 +37,12 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Memory",
-        "Support": "Hometown"
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Rainbow of Absence",
-        "Support": "The Lonely Moon"
+        "General": "Gold Goblet",
+        "Support": "An Old Pal's Legacy"
       },
       "16F": {
         "General": "Heavy as a Million Lives",
@@ -55,31 +55,32 @@
         "Recommendation": "Start"
       },
       {
-        "Name": "Nocturne ",
-        "Recommendation": "Optional"
+        "Name": "God Eater",
+        "Recommendation": "2nd"
       },
       {
         "Name": "Spirit Servants",
         "Recommendation": "Optional"
       },
       {
-        "Name": "Soul Siphon",
+        "Name": "Nocturne ",
         "Recommendation": "Optional"
       },
       {
-        "Name": "God Eater",
+        "Name": "Soul Siphon",
         "Recommendation": "No"
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Vicissitude",
-      "Owner": "Hua",
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
       "Signet": [
-        "Long Trip",
-        "Dark Garb No More",
-        "Old Dreams Again",
-        "Vivid Vicissitude (Nexus)",
-        "Forgotten and Forsaken"
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
       ]
     },
     "Secondary Signets": [
@@ -95,15 +96,14 @@
           "Maxim of Anitya",
           "Maxim of Anatman"
         ]
-      },
-      {
-        "Name": "Signets of Helix",
-        "Owner": "Vill-V",
+      },      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
         "Signet": [
-          "Act II: Pendulum",
-          "Act III: Conflict",
-          "Act V: Spider Web",
-          "Interlude: Reversed Spiral (Nexus)"
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
         ]
       },
       {

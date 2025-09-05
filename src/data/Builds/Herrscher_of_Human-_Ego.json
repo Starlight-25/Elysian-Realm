@@ -5,11 +5,15 @@
     "Stigmata": "Solon",
     "Buffs": [
       {
-        "Effect": "Parvati",
+        "Effect": "Benares",
         "Cost": 0
       },
       {
-        "Effect": "Variable Arms buff",
+        "Effect": "28 degrees",
+        "Cost": 0
+      },
+      {
+        "Effect": "TDM bonus",
         "Cost": 5
       },
       {
@@ -17,13 +21,13 @@
         "Cost": 10
       },
       {
-        "Effect": "Ultimate TDM bonus",
+        "Effect": "Trauma TDM bonus",
         "Cost": 15
       }
     ],
     "Support": {
       "Utility": {
-        "Support1": "Azure Empyrea",
+        "Support1": "Lightning Empress",
         "Support2": "Valkyrie Chariot"
       },
       "Damage": {
@@ -34,15 +38,15 @@
     "Remembrance Sigil": {
       "Start": {
         "General": "Pseudo Miracle",
-        "Support": "Falling in Past Light"
+        "Support": "Because of You"
       },
       "1st Shop": {
-        "General": "Rainbow of Absence",
-        "Support": "The Lonely Moon"
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
       },
       "16F": {
         "General": "Tin Flask",
-        "Support": "Dreamful Gold"
+        "Support": "An Old Pal's Legacy"
       }
     },
     "Ego Signets": [
@@ -100,6 +104,20 @@
         ]
       },
       {
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
+        "Signet": [
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)",
+          "Burden, Difficulty, and Calamity",
+          "Man, Mask, and Contract"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
         "Name": "Signets of Reverie",
         "Owner": "Pardofelis",
         "Signet": [
@@ -107,16 +125,6 @@
           "Back-Curled Tail",
           "Neighborhood Chatters",
           "Empty Dreams, Self, Set, and Joy (Nexus)"
-        ]
-      }
-    ],
-    "Optional Signets": [
-      {
-        "Name": "Signets of Decimation",
-        "Owner": "Kalpas",
-        "Signet": [
-          "Blade, Grave, and Scar",
-          "Desireless, Mindless, and Homeless"
         ]
       }
     ]
