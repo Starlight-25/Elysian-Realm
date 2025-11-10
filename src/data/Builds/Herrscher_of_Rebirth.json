@@ -495,5 +495,247 @@
         ]
       }
     ]
+  },
+  {
+    "Build Name": "Herrscher of Rebirth astral ring",
+    "Weapon": "Life Harvester's Path: Shared Destiny",
+    "Stigmata": "Seele: Herrscher of Rebirth",
+    "Buffs": [
+      {
+        "Effect": "Griseo/Mobius",
+        "Cost": 15
+      },
+      {
+        "Effect": "Ego",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Starlit Astrologos"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Deepspace Ancho: First Light"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Forbidden Seed",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Decay",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Soothingness",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Shared Destiny",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Spirits",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rising Sun",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ]
+  },
+  {
+    "Build Name": "Herrscher of Rebirth no astral ring",
+    "Weapon": "Life Harvester's Path: Shared Destiny",
+    "Stigmata": "Seele: Herrscher of Rebirth",
+    "Buffs": [
+      {
+        "Effect": "Griseo/Mobius",
+        "Cost": 15
+      },
+      {
+        "Effect": "Ego",
+        "Cost": 15
+      }
+    ],
+    "Support": {
+      "Utility": {
+        "Support1": "Valkyrie Chariot",
+        "Support2": "Starlit Astrologos"
+      },
+      "Damage": {
+        "Support1": "Blood Rose",
+        "Support2": "Snowy Sniper"
+      }
+    },
+    "Remembrance Sigil": {
+      "Start": {
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
+      },
+      "1st Shop": {
+        "General": "Forbidden Seed",
+        "Support": "An Old Pal's Legacy"
+      },
+      "16F": {
+        "General": "Heavy as a Million Lives",
+        "Support": "An Old Pal's Legacy"
+      }
+    },
+    "Ego Signets": [
+      {
+        "Name": "Soothingness",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Shared Destiny",
+        "Recommendation": "Optional"
+      },
+      {
+        "Name": "Decay",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Spirits",
+        "Recommendation": "No"
+      },
+      {
+        "Name": "Rising Sun",
+        "Recommendation": "No"
+      }
+    ],
+    "Main Signets": {
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
+      "Signet": [
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Desireless, Mindless, and Homeless",
+        "Fight, Struggle, and Decimation (Nexus)"
+      ]
+    },
+    "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      },
+      {
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
+        "Signet": [
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
+        ]
+      },
+      {
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
+        "Signet": [
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ]
   }
 ]

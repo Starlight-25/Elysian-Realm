@@ -5,23 +5,11 @@
     "Stigmata": "Murata Himeko",
     "Buffs": [
       {
-        "Effect": "Benares",
-        "Cost": 0
+        "Effect": "Griseo/Mobius",
+        "Cost": 15
       },
       {
-        "Effect": "28 degrees",
-        "Cost": 0
-      },
-      {
-        "Effect": "TDM bonus",
-        "Cost": 5
-      },
-      {
-        "Effect": "Outside Stellar Outburst",
-        "Cost": 10
-      },
-      {
-        "Effect": "Weapon type breach",
+        "Effect": "Ego",
         "Cost": 15
       }
     ],
@@ -41,7 +29,7 @@
         "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Light as a Bodhi Leaf",
+        "General": "Forbidden Seed",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
@@ -64,7 +52,7 @@
       },
       {
         "Name": "Tempered Warrior",
-        "Recommendation": "2nd"
+        "Recommendation": "Optional"
       },
       {
         "Name": "Flamescion",
@@ -108,6 +96,20 @@
         ]
       },
       {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
         "Name": "Signets of Reverie",
         "Owner": "Pardofelis",
         "Signet": [
@@ -115,18 +117,6 @@
           "Back-Curled Tail",
           "Neighborhood Chatters",
           "Empty Dreams, Self, Set, and Joy (Nexus)"
-        ]
-      }
-    ],
-    "Optional Signets": [
-      {
-        "Name": "Signets of Gold",
-        "Owner": "Eden",
-        "Signet": [
-          "Recitatif of Eden",
-          "Recitatif of Creeks",
-          "Recitatif of Fine Jade",
-          "Aria of Gold (Nexus)"
         ]
       }
     ]

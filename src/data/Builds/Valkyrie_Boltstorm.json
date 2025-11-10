@@ -5,23 +5,11 @@
     "Stigmata": "Von Neumann",
     "Buffs": [
       {
-        "Effect": "Benares",
-        "Cost": 0
+        "Effect": "Griseo/Mobius",
+        "Cost": 15
       },
       {
-        "Effect": "28 degrees",
-        "Cost": 0
-      },
-      {
-        "Effect": "TDM bonus",
-        "Cost": 5
-      },
-      {
-        "Effect": "Outside Stellar Outburst",
-        "Cost": 10
-      },
-      {
-        "Effect": "Weapon type breach",
+        "Effect": "Ego",
         "Cost": 15
       }
     ],
@@ -41,12 +29,12 @@
         "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Gold Goblet",
-        "Support": "Dreamful Gold"
+        "General": "Forbidden Seed",
+        "Support": "An Old Pal's Legacy"
       },
       "16F": {
         "General": "Tin Flask",
-        "Support": "Dreamful Gold"
+        "Support": "An Old Pal's Legacy"
       }
     },
     "Ego Signets": [
@@ -60,7 +48,7 @@
       },
       {
         "Name": "Meditation",
-        "Recommendation": "Optional"
+        "Recommendation": "No"
       },
       {
         "Name": "Sparkling Lightning",
@@ -95,13 +83,15 @@
         ]
       },
       {
-        "Name": "Signets of Helix",
-        "Owner": "Vill-V",
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
         "Signet": [
-          "Act II: Pendulum",
-          "Act III: Conflict",
-          "Act V: Spider Web",
-          "Interlude: Reversed Spiral (Nexus)"
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
         ]
       },
       {

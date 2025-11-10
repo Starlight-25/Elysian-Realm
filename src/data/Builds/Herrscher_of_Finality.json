@@ -5,19 +5,11 @@
     "Stigmata": "Kiana Kaslana",
     "Buffs": [
       {
-        "Effect": "Benares",
-        "Cost": 0
-      },
-      {
-        "Effect": "28 degrees",
-        "Cost": 0
-      },
-      {
-        "Effect": "Trauma TDM bonus",
+        "Effect": "Kevin/Eden",
         "Cost": 15
       },
       {
-        "Effect": "Weapon type breach",
+        "Effect": "Kevin/Kalpas",
         "Cost": 15
       }
     ],
@@ -33,11 +25,11 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Mad King's Mask",
+        "General": "Gold Goblet",
         "Support": "Because of You"
       },
       "1st Shop": {
-        "General": "Light as a Bodhi Leaf",
+        "General": "Mad King's Mask",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
@@ -52,15 +44,15 @@
       },
       {
         "Name": "High Flames",
-        "Recommendation": "Optional"
+        "Recommendation": "2nd"
       },
       {
         "Name": "Finale Moon",
-        "Recommendation": "Optional"
+        "Recommendation": "2nd"
       },
       {
         "Name": "Clarity",
-        "Recommendation": "Optional"
+        "Recommendation": "No"
       },
       {
         "Name": "Rift",
@@ -68,26 +60,26 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Decimation",
-      "Owner": "Kalpas",
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
       "Signet": [
-        "Blade, Grave, and Scar",
-        "Bone, Blood, and Ribbon",
-        "Path, Misfortune, and Written Fate",
-        "Fight, Struggle, and Decimation (Nexus)",
-        "Burden, Difficulty, and Calamity",
-        "Man, Mask, and Contract"
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
       ]
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Reverie",
-        "Owner": "Pardofelis",
+        "Name": "Signets of Decimation",
+        "Owner": "Kalpas",
         "Signet": [
-          "Motto of Meow",
-          "Back-Curled Tail",
-          "Neighborhood Chatters",
-          "Empty Dreams, Self, Set, and Joy (Nexus)"
+          "Blade, Grave, and Scar",
+          "Bone, Blood, and Ribbon",
+          "Path, Misfortune, and Written Fate",
+          "Fight, Struggle, and Decimation (Nexus)",
+          "Burden, Difficulty, and Calamity",
+          "Man, Mask, and Contract"
         ]
       },
       {
@@ -116,13 +108,13 @@
     ],
     "Optional Signets": [
       {
-        "Name": "Signets of Helix",
-        "Owner": "Vill-V",
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
         "Signet": [
-          "Act I: Magic",
-          "Act II: Pendulum",
-          "Act V: Spider Web",
-          "Interlude: Reversed Spiral (Nexus)"
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
         ]
       }
     ]

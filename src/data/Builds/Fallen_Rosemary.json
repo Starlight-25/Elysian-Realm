@@ -5,23 +5,11 @@
     "Stigmata": "Handel",
     "Buffs": [
       {
-        "Effect": "Benares",
-        "Cost": 0
+        "Effect": "Griseo/Mobius",
+        "Cost": 15
       },
       {
-        "Effect": "28 degrees",
-        "Cost": 0
-      },
-      {
-        "Effect": "TDM bonus",
-        "Cost": 5
-      },
-      {
-        "Effect": "Outside Stellar Outburst",
-        "Cost": 10
-      },
-      {
-        "Effect": "Weapon type breach",
+        "Effect": "Ego",
         "Cost": 15
       }
     ],
@@ -41,12 +29,12 @@
         "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Gold Goblet",
+        "General": "Rainbow of Absence",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
         "General": "Heavy as a Million Lives",
-        "Support": "Dreamful Gold"
+        "Support": "An Old Pal's Legacy"
       }
     },
     "Ego Signets": [
@@ -64,7 +52,7 @@
       },
       {
         "Name": "Nocturne ",
-        "Recommendation": "Optional"
+        "Recommendation": "No"
       },
       {
         "Name": "Soul Siphon",
@@ -85,6 +73,18 @@
     },
     "Secondary Signets": [
       {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
+        ]
+      },
+      {
         "Name": "Signets of Bodhi",
         "Owner": "Su",
         "Signet": [
@@ -95,15 +95,6 @@
           "Motto of Bodhi (Nexus)",
           "Maxim of Anitya",
           "Maxim of Anatman"
-        ]
-      },      {
-        "Name": "Signets of Gold",
-        "Owner": "Eden",
-        "Signet": [
-          "Recitatif of Eden",
-          "Recitatif of Creeks",
-          "Recitatif of Fine Jade",
-          "Aria of Gold (Nexus)"
         ]
       },
       {

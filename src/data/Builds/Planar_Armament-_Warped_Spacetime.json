@@ -5,22 +5,18 @@
     "Stigmata": "Choices of Fate",
     "Buffs": [
       {
-        "Effect": "Parvati",
-        "Cost": 0
-      },
-      {
-        "Effect": "Ultimate TDM bonus",
+        "Effect": "Kevin/Eden",
         "Cost": 15
       },
       {
-        "Effect": "Weapon type breach",
+        "Effect": "Ego",
         "Cost": 15
       }
     ],
     "Support": {
       "Utility": {
         "Support1": "Azure Empyrea",
-        "Support2": "Fallen Rosemary"
+        "Support2": "Valkyrie Chariot"
       },
       "Damage": {
         "Support1": "Deepspace Anchor: First Light",
@@ -29,15 +25,15 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Gold Goblet",
+        "General": "An Old Pal's Legacy",
         "Support": "Dreamful Gold"
       },
       "1st Shop": {
-        "General": "Light as a Bodhi Leaf",
+        "General": "Gold Goblet",
         "Support": "Dreamful Gold"
       },
       "16F": {
-        "General": "Key to the Deep",
+        "General": "Heavy as a Million Lives",
         "Support": "Dreamful Gold"
       }
     },
@@ -64,18 +60,28 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Gold",
-      "Owner": "Eden",
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
       "Signet": [
-        "Recitatif of Eden",
-        "Recitatif of Creeks",
-        "Recitatif of Good Wine",
-        "Recitatif of Fine Jade",
-        "Aria of Gold (Nexus)",
-        "Aria of Soil"
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
       ]
     },
     "Secondary Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      },
       {
         "Name": "Signets of Bodhi",
         "Owner": "Su",
@@ -97,27 +103,19 @@
           "Black & Dark",
           "Shining Like Stars (Nexus)"
         ]
-      },
-      {
-        "Name": "Signets of Reverie",
-        "Owner": "Pardofelis",
-        "Signet": [
-          "Motto of Meow",
-          "Back-Curled Tail",
-          "Neighborhood Chatters",
-          "Empty Dreams, Self, Set, and Joy (Nexus)"
-        ]
       }
     ],
     "Optional Signets": [
       {
-        "Name": "Signets of Decimation",
-        "Owner": "Kalpas",
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
         "Signet": [
-          "Blade, Grave, and Scar",
-          "Bone, Blood, and Ribbon",
-          "Path, Misfortune, and Written Fate",
-          "Fight, Struggle, and Decimation (Nexus)"
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)",
+          "Dead [X]",
+          "Newborn [X]"
         ]
       }
     ]

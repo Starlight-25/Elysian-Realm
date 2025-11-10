@@ -5,20 +5,8 @@
     "Stigmata": "Solon",
     "Buffs": [
       {
-        "Effect": "Benares",
-        "Cost": 0
-      },
-      {
-        "Effect": "28 degrees",
-        "Cost": 0
-      },
-      {
-        "Effect": "TDM bonus",
-        "Cost": 5
-      },
-      {
-        "Effect": "Weapon skill Ele DMG bonus",
-        "Cost": 10
+        "Effect": "Griseo/Mobius",
+        "Cost": 15
       },
       {
         "Effect": "Trauma TDM bonus",
@@ -37,11 +25,11 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Pseudo Miracle",
+        "General": "Mad King's Mask",
         "Support": "Because of You"
       },
       "1st Shop": {
-        "General": "Mad King's Mask",
+        "General": "Forbidden Seed",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
@@ -55,12 +43,12 @@
         "Recommendation": "Start"
       },
       {
-        "Name": "First Awakening",
+        "Name": "First Journey",
         "Recommendation": "Start"
       },
       {
-        "Name": "First Journey",
-        "Recommendation": "Optional"
+        "Name": "First Awakening",
+        "Recommendation": "1st"
       },
       {
         "Name": "First Encounter",
@@ -72,16 +60,28 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Helix",
-      "Owner": "Vill-V",
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
       "Signet": [
-        "Act II: Pendulum",
-        "Act III: Conflict",
-        "Act V: Spider Web",
-        "Interlude: Reversed Spiral (Nexus)"
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
       ]
     },
     "Secondary Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      },
       {
         "Name": "Signets of Vicissitude",
         "Owner": "Hua",
@@ -89,8 +89,7 @@
           "Long Trip",
           "Dark Garb No More",
           "Old Dreams Again",
-          "Vivid Vicissitude (Nexus)",
-          "Forgotten and Forsaken"
+          "Vivid Vicissitude (Nexus)"
         ]
       },
       {
@@ -101,18 +100,6 @@
           "Yellow & Warm",
           "Black & Dark",
           "Shining Like Stars (Nexus)"
-        ]
-      },
-      {
-        "Name": "Signets of Decimation",
-        "Owner": "Kalpas",
-        "Signet": [
-          "Blade, Grave, and Scar",
-          "Bone, Blood, and Ribbon",
-          "Path, Misfortune, and Written Fate",
-          "Fight, Struggle, and Decimation (Nexus)",
-          "Burden, Difficulty, and Calamity",
-          "Man, Mask, and Contract"
         ]
       }
     ],

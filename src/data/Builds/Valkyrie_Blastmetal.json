@@ -133,23 +133,11 @@
     "Stigmata": "Fu Hua: Ordinary Day",
     "Buffs": [
       {
-        "Effect": "Benares",
-        "Cost": 0
+        "Effect": "Griseo/Mobius",
+        "Cost": 15
       },
       {
-        "Effect": "28 degrees",
-        "Cost": 0
-      },
-      {
-        "Effect": "TDM bonus",
-        "Cost": 5
-      },
-      {
-        "Effect": "Outside Stellar Outburst",
-        "Cost": 10
-      },
-      {
-        "Effect": "Weapon type breach",
+        "Effect": "Ego",
         "Cost": 15
       }
     ],
@@ -165,16 +153,16 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Mad King's Mask",
-        "Support": "An Old Pal's Legacy"
+        "General": "Forbidden Seed",
+        "Support": "Because of You"
       },
       "1st Shop": {
-        "General": "Memory",
-        "Support": "Dreamful Gold"
+        "General": "Light as a Bodhi Leaf",
+        "Support": "Awakening"
       },
       "16F": {
-        "General": "Key to the Deep",
-        "Support": "Dreamful Gold"
+        "General": "Heavy as a Million Lives",
+        "Support": "Awakening"
       }
     },
     "Ego Signets": [
@@ -184,15 +172,15 @@
       },
       {
         "Name": "Proficiency",
-        "Recommendation": "No"
+        "Recommendation": "2nd"
       },
       {
         "Name": "Bolt",
-        "Recommendation": "No"
+        "Recommendation": "2nd"
       },
       {
         "Name": "Sky Blitz",
-        "Recommendation": "No"
+        "Recommendation": "Optional"
       },
       {
         "Name": "Readiness",
@@ -200,27 +188,29 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Decimation",
-      "Owner": "Kalpas",
+      "Name": "Signets of Infinity",
+      "Owner": "Mobius",
       "Signet": [
-        "Blade, Grave, and Scar",
-        "Bone, Blood, and Ribbon",
-        "Path, Misfortune, and Written Fate",
-        "Fight, Struggle, and Decimation (Nexus)",
-        "Burden, Difficulty, and Calamity",
-        "Man, Mask, and Contract"
+        "Rodent [V]",
+        "Entwined [P]",
+        "Lip Poison [E]",
+        "Infinite [X] (Nexus)",
+        "Dead [X]",
+        "Newborn [X]"
       ]
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Vicissitude",
-        "Owner": "Hua",
+        "Name": "Signets of Bodhi",
+        "Owner": "Su",
         "Signet": [
-          "Long Trip",
-          "Dark Garb No More",
-          "Old Dreams Again",
-          "Vivid Vicissitude (Nexus)",
-          "Forgotten and Forsaken"
+          "Motto of Pubbe-Nivasanussati",
+          "Motto of Dibba-Cakkhu",
+          "Motto of Iddhi-Vidha",
+          "Motto of Asavakkhaya",
+          "Motto of Bodhi (Nexus)",
+          "Maxim of Anitya",
+          "Maxim of Anatman"
         ]
       },
       {
@@ -229,23 +219,10 @@
         "Signet": [
           "Act I: Magic",
           "Act II: Pendulum",
-          "Act V: Spider Web",
+          "Act III: Conflict",
           "Interlude: Reversed Spiral (Nexus)"
         ]
       },
-      {
-        "Name": "Signets of Setsuna",
-        "Owner": "Sakura",
-        "Signet": [
-          "Bountiful Blossom: Koyo",
-          "Bountiful Blossom: Botan",
-          "Bountiful Blossom: Kiku",
-          "Bountiful Blossom: Fuji",
-          "Setsuna Blade: Yasha (Nexus)"
-        ]
-      }
-    ],
-    "Optional Signets": [
       {
         "Name": "Signets of Reverie",
         "Owner": "Pardofelis",
@@ -254,6 +231,16 @@
           "Back-Curled Tail",
           "Neighborhood Chatters",
           "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Black & Dark"
         ]
       }
     ]

@@ -1,26 +1,22 @@
 [
   {
-    "Build Name": "Lone Planetfarer ring",
-    "Weapon": "Skyveil Feathers: Purifying Wish",
-    "Stigmata": "Vita: Lone Planetfarer",
+    "Build Name": "Hi♪ Love Elf♥ no astral ring",
+    "Weapon": "Pure Love's Whisper: Heart's Wish",
+    "Stigmata": "Blissful Days",
     "Buffs": [
       {
-        "Effect": "Andrius",
-        "Cost": 0
-      },
-      {
-        "Effect": "Combo and weapon skill DMG bonus",
+        "Effect": "Kevin/Eden",
         "Cost": 15
       },
       {
-        "Effect": "Weapon type breach",
+        "Effect": "Ego",
         "Cost": 15
       }
     ],
     "Support": {
       "Utility": {
-        "Support1": "Azure Empyrea",
-        "Support2": "Fallen Rosemary"
+        "Support1": "Reverist Calico",
+        "Support2": "Blood Rose"
       },
       "Damage": {
         "Support1": "Deepspace Anchor: First Light",
@@ -33,33 +29,33 @@
         "Support": "Dreamful Gold"
       },
       "1st Shop": {
-        "General": "Light as a Bodhi Leaf",
+        "General": "Burden",
         "Support": "Dreamful Gold"
       },
       "16F": {
-        "General": "Heavy as a Million Lives",
+        "General": "Key to the Deep",
         "Support": "Dreamful Gold"
       }
     },
     "Ego Signets": [
       {
-        "Name": "Abyssal Aid",
+        "Name": "Blossoms",
         "Recommendation": "Start"
       },
       {
-        "Name": "Deep Love",
-        "Recommendation": "2nd"
+        "Name": "Golden Arrow",
+        "Recommendation": "Start"
       },
       {
-        "Name": "Lonesome Feathers",
-        "Recommendation": "2nd"
+        "Name": "Bright Star",
+        "Recommendation": "Optional"
       },
       {
-        "Name": "Cosmos",
+        "Name": "Glad News",
         "Recommendation": "No"
       },
       {
-        "Name": "Lovely Wishes",
+        "Name": "Fragrant Garden",
         "Recommendation": "No"
       }
     ],
@@ -70,21 +66,20 @@
         "Recitatif of Eden",
         "Recitatif of Creeks",
         "Recitatif of Fine Jade",
-        "Aria of Gold (Nexus)"
+        "Aria of Gold (Nexus)",
+        "Aria of Soil",
+        "Aria of Dawn"
       ]
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Bodhi",
-        "Owner": "Su",
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
         "Signet": [
-          "Motto of Pubbe-Nivasanussati",
-          "Motto of Dibba-Cakkhu",
-          "Motto of Iddhi-Vidha",
-          "Motto of Asavakkhaya",
-          "Motto of Bodhi (Nexus)",
-          "Maxim of Anitya",
-          "Maxim of Anatman"
+          "Goblet of the Giver",
+          "Brand of the Undead",
+          "Artifact of the Inhibitor",
+          "Blade of the Deliverer (Nexus)"
         ]
       },
       {
@@ -98,19 +93,6 @@
         ]
       },
       {
-        "Name": "Signets of Vicissitude",
-        "Owner": "Hua",
-        "Signet": [
-          "Long Trip",
-          "Dark Garb No More",
-          "Old Dreams Again",
-          "Vivid Vicissitude (Nexus)",
-          "Forgotten and Forsaken"
-        ]
-      }
-    ],
-    "Optional Signets": [
-      {
         "Name": "Signets of Reverie",
         "Owner": "Pardofelis",
         "Signet": [
@@ -120,12 +102,24 @@
           "Empty Dreams, Self, Set, and Joy (Nexus)"
         ]
       }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Infinity",
+        "Owner": "Mobius",
+        "Signet": [
+          "Rodent [V]",
+          "Entwined [P]",
+          "Lip Poison [E]",
+          "Infinite [X] (Nexus)"
+        ]
+      }
     ]
   },
   {
-    "Build Name": "Lone Planetfarer no astral ring",
-    "Weapon": "Skyveil Feathers: Purifying Wish",
-    "Stigmata": "Vita: Lone Planetfarer",
+    "Build Name": "Hi♪ Love Elf♥ astral ring",
+    "Weapon": "Pure Love's Whisper: Heart's Wish",
+    "Stigmata": "Blissful Days",
     "Buffs": [
       {
         "Effect": "Griseo/Mobius",
@@ -139,7 +133,7 @@
     "Support": {
       "Utility": {
         "Support1": "Azure Empyrea",
-        "Support2": "Valkyrie Chariot"
+        "Support2": "Blood Rose"
       },
       "Damage": {
         "Support1": "Deepspace Anchor: First Light",
@@ -152,33 +146,33 @@
         "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Rainbow of Absence",
+        "General": "Gold Goblet",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
-        "General": "Tin Flask",
+        "General": "Key to the Deep",
         "Support": "An Old Pal's Legacy"
       }
     },
     "Ego Signets": [
       {
-        "Name": "Cosmos",
+        "Name": "Glad News",
         "Recommendation": "Start"
       },
       {
-        "Name": "Lovely Wishes",
+        "Name": "Golden Arrow",
+        "Recommendation": "Start"
+      },
+      {
+        "Name": "Fragrant Garden",
         "Recommendation": "2nd"
       },
       {
-        "Name": "Lonesome Feathers",
-        "Recommendation": "2nd"
-      },
-      {
-        "Name": "Abyssal Aid",
+        "Name": "Bright Star",
         "Recommendation": "No"
       },
       {
-        "Name": "Deep Love",
+        "Name": "Blossoms",
         "Recommendation": "No"
       }
     ],
@@ -196,13 +190,13 @@
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Vicissitude",
-        "Owner": "Hua",
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
         "Signet": [
-          "Long Trip",
-          "Dark Garb No More",
-          "Old Dreams Again",
-          "Vivid Vicissitude (Nexus)"
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
         ]
       },
       {
