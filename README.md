@@ -1,12 +1,41 @@
-# React + Vite
+# Elysian Realm Build Guide - Honkai Impact 3rd
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React + Vite web application designed to serve as a comprehensive build guide for the Elysian Realm mode in Honkai Impact 3rd. Players can explore optimal builds, character setups, and recommended strategies for tackling the mode effectively.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Elysian Realm Build Guide](https://starlight-25.github.io/Elysian-Realm/)
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Detailed character builds for Elysian Realm mode
+- Recommended weapon and stigmata setup
+- Recommended Signets setup
+- Responsive design for desktop and mobile  
+- Easy navigation with React Router  
+
+## Technologies
+
+- **React** – Front-end library for building UI  
+- **Vite** – Build tool for fast development and optimized production builds  
+- **React Router** – For page routing  
+- **Tailwind CSS / CSS Modules** – Styling (adjust according to your setup)  
+- [**Rentry page**](https://rentry.org/ElysianRealm) - Builds data
+
+## Usage
+
+- Browse through characters and builds
+- Click on a character to view detailed build recommendations and tips
+
+## License
+
+End-User License Agreement (EULA)
+
+This website is licensed, not sold. By installing or using the website, you agree to the following terms:
+
+- You may use this software for personal entertainment.
+- You may not redistributeor modify this website.
+- All code is owned by **Starlight**.
+- This website is provided "as is", without warranty of any kind.
+
+© 2025 **Starlight**. All rights reserved.
