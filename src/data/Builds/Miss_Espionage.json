@@ -1,8 +1,8 @@
 [
   {
-    "Build Name": "Hi♪ Love Elf♥ no astral ring",
-    "Weapon": "Pure Love's Whisper: Heart's Wish",
-    "Stigmata": "Blissful Days",
+    "Build Name": "Miss Espionage no astral ring",
+    "Weapon": "Codename: Top Mission",
+    "Stigmata": "Rita: Miss Espionage",
     "Buffs": [
       {
         "Effect": "HoD Minion",
@@ -19,21 +19,21 @@
     ],
     "Support": {
       "Utility": {
-        "Support1": "Reverist Calico",
+        "Support1": "Azure Empyrea",
         "Support2": "Blood Rose"
       },
       "Damage": {
-        "Support1": "Deepspace Anchor: First Light",
+        "Support1": "Mad Pleasure: Shadowbringer",
         "Support2": "Blood Rose"
       }
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Gold Goblet",
-        "Support": "Dreamful Gold"
+        "General": "Mad King's Mask",
+        "Support": "Because of You"
       },
       "1st Shop": {
-        "General": "Burden",
+        "General": "Gold Goblet",
         "Support": "Dreamful Gold"
       },
       "16F": {
@@ -43,47 +43,45 @@
     },
     "Ego Signets": [
       {
-        "Name": "Blossoms",
+        "Name": "Couture",
         "Recommendation": "Start"
       },
       {
-        "Name": "Golden Arrow",
-        "Recommendation": "Start"
+        "Name": "Perfection ",
+        "Recommendation": "1st"
       },
       {
-        "Name": "Bright Star",
-        "Recommendation": "Optional"
+        "Name": "Rouge",
+        "Recommendation": "2nd"
       },
       {
-        "Name": "Glad News",
+        "Name": "Sophistication",
         "Recommendation": "No"
       },
       {
-        "Name": "Fragrant Garden",
+        "Name": "Thunderstrike",
         "Recommendation": "No"
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Gold",
-      "Owner": "Eden",
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
       "Signet": [
-        "Recitatif of Eden",
-        "Recitatif of Creeks",
-        "Recitatif of Fine Jade",
-        "Aria of Gold (Nexus)",
-        "Aria of Soil",
-        "Aria of Dawn"
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)"
       ]
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Deliverance",
-        "Owner": "Kevin",
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
         "Signet": [
-          "Goblet of the Giver",
-          "Brand of the Undead",
-          "Artifact of the Inhibitor",
-          "Blade of the Deliverer (Nexus)"
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
         ]
       },
       {
@@ -115,32 +113,36 @@
           "Act I: Magic",
           "Act II: Pendulum",
           "Act III: Conflict",
-          "Interlude: Reversed Spiral"
+          "Interlude: Reversed Spiral (Nexus)"
         ]
       }
     ]
   },
   {
-    "Build Name": "Hi♪ Love Elf♥ astral ring",
-    "Weapon": "Pure Love's Whisper: Heart's Wish",
-    "Stigmata": "Blissful Days",
+    "Build Name": "Miss Espionage astral ring",
+    "Weapon": "Codename: Top Mission",
+    "Stigmata": "Rita: Miss Espionage",
     "Buffs": [
       {
-        "Effect": "Griseo/Mobius",
-        "Cost": 15
+        "Effect": "Max HP + 500",
+        "Cost": 5
       },
       {
-        "Effect": "Ego",
+        "Effect": "Weapon skill vulnerability",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],
     "Support": {
       "Utility": {
-        "Support1": "Azure Empyrea",
+        "Support1": "Lightning Empress",
         "Support2": "Blood Rose"
       },
       "Damage": {
-        "Support1": "Deepspace Anchor: First Light",
+        "Support1": "Mad Pleasure: Shadowbringer",
         "Support2": "Blood Rose"
       }
     },
@@ -150,33 +152,33 @@
         "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Gold Goblet",
+        "General": "Memory",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
-        "General": "Key to the Deep",
-        "Support": "An Old Pal's Legacy"
+        "General": "Tin Flask",
+        "Support": "Falling in Past Light"
       }
     },
     "Ego Signets": [
       {
-        "Name": "Glad News",
+        "Name": "Sophistication",
         "Recommendation": "Start"
       },
       {
-        "Name": "Golden Arrow",
-        "Recommendation": "Start"
+        "Name": "Perfection",
+        "Recommendation": "2st"
       },
       {
-        "Name": "Fragrant Garden",
-        "Recommendation": "2nd"
+        "Name": "Thunderstrike",
+        "Recommendation": "Optional"
       },
       {
-        "Name": "Bright Star",
+        "Name": "Couture",
         "Recommendation": "No"
       },
       {
-        "Name": "Blossoms",
+        "Name": "Rouge",
         "Recommendation": "No"
       }
     ],
@@ -187,20 +189,19 @@
         "Blade, Grave, and Scar",
         "Bone, Blood, and Ribbon",
         "Path, Misfortune, and Written Fate",
-        "Fight, Struggle, and Decimation (Nexus)",
-        "Burden, Difficulty, and Calamity",
-        "Man, Mask, and Contract"
+        "Fight, Struggle, and Decimation (Nexus)"
       ]
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Gold",
-        "Owner": "Eden",
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
         "Signet": [
-          "Recitatif of Eden",
-          "Recitatif of Creeks",
-          "Recitatif of Fine Jade",
-          "Aria of Gold (Nexus)"
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)",
+          "Forgotten and Forsaken"
         ]
       },
       {
@@ -214,13 +215,13 @@
         ]
       },
       {
-        "Name": "Signets of Infinity",
-        "Owner": "Mobius",
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
         "Signet": [
-          "Rodent [V]",
-          "Entwined [P]",
-          "Lip Poison [E]",
-          "Infinite [X] (Nexus)"
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
         ]
       }
     ],
