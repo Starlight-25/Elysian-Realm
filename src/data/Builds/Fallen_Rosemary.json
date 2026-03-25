@@ -5,11 +5,15 @@
     "Stigmata": "Handel",
     "Buffs": [
       {
-        "Effect": "Griseo/Mobius",
+        "Effect": "Max HP + 500",
+        "Cost": 0
+      },
+      {
+        "Effect": "Weapon skill vulnerability",
         "Cost": 15
       },
       {
-        "Effect": "Ego",
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],
@@ -29,7 +33,7 @@
         "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Rainbow of Absence",
+        "General": "Burden",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
@@ -39,20 +43,20 @@
     },
     "Ego Signets": [
       {
-        "Name": "Valfreyja",
+        "Name": "Nocturne ",
         "Recommendation": "Start"
       },
       {
+        "Name": "Valfreyja",
+        "Recommendation": "1st"
+      },
+      {
         "Name": "God Eater",
-        "Recommendation": "2nd"
+        "Recommendation": "Optional"
       },
       {
         "Name": "Spirit Servants",
         "Recommendation": "Optional"
-      },
-      {
-        "Name": "Nocturne ",
-        "Recommendation": "No"
       },
       {
         "Name": "Soul Siphon",
@@ -73,15 +77,14 @@
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Infinity",
-        "Owner": "Mobius",
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
         "Signet": [
-          "Rodent [V]",
-          "Entwined [P]",
-          "Lip Poison [E]",
-          "Infinite [X] (Nexus)",
-          "Dead [X]",
-          "Newborn [X]"
+          "Goblet of the Giver",
+          "Pendant of the Watcher",
+          "Brand of the Undead",
+          "Rochet of the Pilgrim",
+          "Blade of the Deliverer (Nexus)"
         ]
       },
       {

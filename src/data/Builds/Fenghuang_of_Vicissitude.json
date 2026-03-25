@@ -5,11 +5,15 @@
     "Stigmata": "Fu Hua: Ordinary Day",
     "Buffs": [
       {
-        "Effect": "Kevin/Kalpas",
-        "Cost": 15
+        "Effect": "Max HP + 500",
+        "Cost": 5
       },
       {
-        "Effect": "Ego",
+        "Effect": "Weapon skill vulnerability",
+        "Cost": 10
+      },
+      {
+        "Effect": "Different support type",
         "Cost": 15
       }
     ],
@@ -29,7 +33,7 @@
         "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Light as a Bodhi Leaf",
+        "General": "Memory",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
@@ -96,6 +100,18 @@
         ]
       },
       {
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
+        "Signet": [
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
         "Name": "Signets of Reverie",
         "Owner": "Pardofelis",
         "Signet": [
@@ -103,18 +119,6 @@
           "Back-Curled Tail",
           "Neighborhood Chatters",
           "Empty Dreams, Self, Set, and Joy (Nexus)"
-        ]
-      }
-    ],
-    "Optional Signets": [
-      {
-        "Name": "Signets of Infinity",
-        "Owner": "Mobius",
-        "Signet": [
-          "Rodent [V]",
-          "Entwined [P]",
-          "Lip Poison [E]",
-          "Infinite [X] (Nexus)"
         ]
       }
     ]

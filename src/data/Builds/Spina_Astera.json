@@ -5,23 +5,15 @@
     "Stigmata": "Fu Hua: Ordinary Day",
     "Buffs": [
       {
-        "Effect": "Benares",
-        "Cost": 0
-      },
-      {
-        "Effect": "28 degrees",
-        "Cost": 0
-      },
-      {
-        "Effect": "TDM bonus",
+        "Effect": "Max HP + 500",
         "Cost": 5
       },
       {
-        "Effect": "Outside Stellar Outburst",
+        "Effect": "Ailment TDM bonus",
         "Cost": 10
       },
       {
-        "Effect": "Weapon type breach",
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],

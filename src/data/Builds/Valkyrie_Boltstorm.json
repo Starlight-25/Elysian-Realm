@@ -5,11 +5,15 @@
     "Stigmata": "Von Neumann",
     "Buffs": [
       {
-        "Effect": "Griseo/Mobius",
+        "Effect": "Max HP + 500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill vulnerability",
         "Cost": 15
       },
       {
-        "Effect": "Ego",
+        "Effect": "Different support type",
         "Cost": 15
       }
     ],
@@ -83,15 +87,13 @@
         ]
       },
       {
-        "Name": "Signets of Infinity",
-        "Owner": "Mobius",
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
         "Signet": [
-          "Rodent [V]",
-          "Entwined [P]",
-          "Lip Poison [E]",
-          "Infinite [X] (Nexus)",
-          "Dead [X]",
-          "Newborn [X]"
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
         ]
       },
       {

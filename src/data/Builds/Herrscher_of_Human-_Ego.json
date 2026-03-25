@@ -5,11 +5,15 @@
     "Stigmata": "Solon",
     "Buffs": [
       {
-        "Effect": "Griseo/Mobius",
+        "Effect": "Max HP + 500",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill vulnerability",
         "Cost": 15
       },
       {
-        "Effect": "Trauma TDM bonus",
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],
@@ -29,7 +33,7 @@
         "Support": "Because of You"
       },
       "1st Shop": {
-        "General": "Forbidden Seed",
+        "General": "Burden",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
@@ -73,23 +77,23 @@
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Infinity",
-        "Owner": "Mobius",
+        "Name": "Signets of Deliverance",
+        "Owner": "Kevin",
         "Signet": [
-          "Rodent [V]",
-          "Entwined [P]",
-          "Lip Poison [E]",
-          "Infinite [X] (Nexus)"
+          "Goblet of the Giver",
+          "Brand of the Undead",
+          "Artifact of the Inhibitor",
+          "Blade of the Deliverer (Nexus)"
         ]
       },
       {
-        "Name": "Signets of Vicissitude",
-        "Owner": "Hua",
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
         "Signet": [
-          "Long Trip",
-          "Dark Garb No More",
-          "Old Dreams Again",
-          "Vivid Vicissitude (Nexus)"
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Act V: Spider Web",
+          "Interlude: Reversed Spiral (Nexus)"
         ]
       },
       {

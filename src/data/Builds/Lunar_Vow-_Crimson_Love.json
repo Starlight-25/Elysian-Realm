@@ -1,23 +1,19 @@
 [
   {
-    "Build Name": "Lunar Vow: Crimson Love basic",
-    "Weapon": "Bloodied Casket: Tough Love",
-    "Stigmata": "Darkness Illuminated",
+    "Build Name": "Lunar Vow: Crimson no astral ring",
+    "Weapon": "Pact of Companionship: Evermore",
+    "Stigmata": "Julius Caesar",
     "Buffs": [
       {
-        "Effect": "Pishacha",
-        "Cost": 0
-      },
-      {
-        "Effect": "TDM bonus",
+        "Effect": "Max HP + 500",
         "Cost": 5
       },
       {
-        "Effect": "Weapon skill Ele DMG bonus",
+        "Effect": "Ailment TDM bonus",
         "Cost": 10
       },
       {
-        "Effect": "Trauma DMG bonus",
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],
@@ -92,27 +88,18 @@
         ]
       },
       {
-        "Name": "Signets of Vicissitude",
-        "Owner": "Hua",
+        "Name": "Signets of Daybreak",
+        "Owner": "Kosma",
         "Signet": [
-          "Long Trip",
-          "Dark Garb No More",
-          "Old Dreams Again",
-          "Vivid Vicissitude (Nexus)"
+          "Talons that Desecrate the Santuary",
+          "Wings that Mask the Sanguine Moon",
+          "Horns that Rip the Bleak Sky",
+          "Eyes that Overlook the Vicious Abyss",
+          "Daybreak, an Undying Light (Nexus)",
+          "Unbending Hero",
+          "Unwavering Promise"
         ]
       },
-      {
-        "Name": "Signets of Stars",
-        "Owner": "Griseo",
-        "Signet": [
-          "Red & Hot",
-          "Yellow & Warm",
-          "Grey & Empty",
-          "Shining Like Stars (Nexus)"
-        ]
-      }
-    ],
-    "Optional Signets": [
       {
         "Name": "Signets of Reverie",
         "Owner": "Pardofelis",
@@ -123,48 +110,60 @@
           "Empty Dreams, Self, Set, and Joy (Nexus)"
         ]
       }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
+        "Signet": [
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
+        ]
+      }
     ]
   },
   {
-    "Build Name": "Lunar Vow: Crimson Love weapon",
-    "Weapon": "Bloodied Casket: Tough Love",
-    "Stigmata": "Darkness Illuminated",
+    "Build Name": "Lunar Vow: Crimson Love astral ring",
+    "Weapon": "Pact of Companionship: Evermore",
+    "Stigmata": "Julius Caesar",
     "Buffs": [
       {
-        "Effect": "Cruising Tribunal",
-        "Cost": 0
+        "Effect": "Max HP + 500",
+        "Cost": 5
       },
       {
-        "Effect": "Weapon type breach",
-        "Cost": 15
+        "Effect": "Ailment TDM bonus",
+        "Cost": 10
       },
       {
-        "Effect": "Max HP DMG buff",
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],
     "Support": {
       "Utility": {
         "Support1": "Blood Rose",
-        "Support2": "Bright Knight: Excelsis"
+        "Support2": "Azure Empyrea"
       },
       "Damage": {
         "Support1": "Blood Rose",
-        "Support2": "Reverist Calico"
+        "Support2": "Azure Empyrea"
       }
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Pseudo Miracle",
-        "Support": "Falling in Past Light"
+        "General": "Gold Goblet",
+        "Support": "Because of You"
       },
       "1st Shop": {
         "General": "Light as a Bodhi Leaf",
-        "Support": "Falling in Past Light"
+        "Support": "Dreamful Gold"
       },
       "16F": {
         "General": "Heavy as a Million Lives",
-        "Support": "Falling in Past Light"
+        "Support": "Dreamful Gold"
       }
     },
     "Ego Signets": [
@@ -174,7 +173,7 @@
       },
       {
         "Name": "Divine Pact",
-        "Recommendation": "2nd"
+        "Recommendation": "1st"
       },
       {
         "Name": "Hermit",
@@ -190,14 +189,13 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Helix",
-      "Owner": "Vill-V",
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
       "Signet": [
-        "Act I: Magic",
-        "Act II: Pendulum",
-        "Act III: Conflict",
-        "Act VI: Sneer",
-        "Interlude: Reversed Spiral (Nexus)"
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
       ]
     },
     "Secondary Signets": [
@@ -225,18 +223,6 @@
         ]
       },
       {
-        "Name": "Signets of Decimation",
-        "Owner": "Kalpas",
-        "Signet": [
-          "Blade, Grave, and Scar",
-          "Bone, Blood, and Ribbon",
-          "Path, Misfortune, and Written Fate",
-          "Fight, Struggle, and Decimation (Nexus)"
-        ]
-      }
-    ],
-    "Optional Signets": [
-      {
         "Name": "Signets of Reverie",
         "Owner": "Pardofelis",
         "Signet": [
@@ -244,6 +230,18 @@
           "Back-Curled Tail",
           "Neighborhood Chatters",
           "Empty Dreams, Self, Set, and Joy (Nexus)"
+        ]
+      }
+    ],
+    "Optional Signets": [
+      {
+        "Name": "Signets of Helix",
+        "Owner": "Vill-V",
+        "Signet": [
+          "Act I: Magic",
+          "Act II: Pendulum",
+          "Act III: Conflict",
+          "Interlude: Reversed Spiral (Nexus)"
         ]
       }
     ]

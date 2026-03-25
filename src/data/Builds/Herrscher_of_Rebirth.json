@@ -502,22 +502,26 @@
     "Stigmata": "Seele: Herrscher of Rebirth",
     "Buffs": [
       {
-        "Effect": "Griseo/Mobius",
-        "Cost": 15
+        "Effect": "Max HP + 500",
+        "Cost": 5
       },
       {
-        "Effect": "Ego",
+        "Effect": "Ailment TDM bonus",
+        "Cost": 10
+      },
+      {
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],
     "Support": {
       "Utility": {
-        "Support1": "Valkyrie Chariot",
+        "Support1": "Snowy Sniper",
         "Support2": "Starlit Astrologos"
       },
       "Damage": {
         "Support1": "Blood Rose",
-        "Support2": "Deepspace Ancho: First Light"
+        "Support2": "Starlit Astrologos"
       }
     },
     "Remembrance Sigil": {
