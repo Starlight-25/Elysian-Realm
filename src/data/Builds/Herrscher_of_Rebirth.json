@@ -502,12 +502,12 @@
     "Stigmata": "Seele: Herrscher of Rebirth",
     "Buffs": [
       {
-        "Effect": "Max HP + 500",
-        "Cost": 5
+        "Effect": "Assaka",
+        "Cost": 0
       },
       {
-        "Effect": "Ailment TDM bonus",
-        "Cost": 10
+        "Effect": "Combo ATK ultimate dmg",
+        "Cost": 15
       },
       {
         "Effect": "Weapon breach",

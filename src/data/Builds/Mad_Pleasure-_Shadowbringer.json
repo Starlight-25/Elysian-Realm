@@ -127,20 +127,24 @@
     "Stigmata": "Splendors of Amber",
     "Buffs": [
       {
-        "Effect": "HoD Minion",
+        "Effect": "Assaka",
         "Cost": 0
       },
       {
-        "Effect": "Valk TDM bonus",
+        "Effect": "SP+30",
         "Cost": 5
       },
       {
-        "Effect": "Phys and ele DMG bonus",
+        "Effect": "No damage taken TDM bonus",
+        "Cost": 5
+      },
+      {
+        "Effect": "Weapon skill dmg",
         "Cost": 10
       },
       {
-        "Effect": "TDM bonus",
-        "Cost": 15
+        "Effect": "Non stellar outburst dmg",
+        "Cost": 10
       }
     ],
     "Support": {

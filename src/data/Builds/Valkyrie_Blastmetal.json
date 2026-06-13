@@ -125,19 +125,23 @@
     "Stigmata": "Fu Hua: Ordinary Day",
     "Buffs": [
       {
-        "Effect": "Max HP + 500",
+        "Effect": "Assaka",
+        "Cost": 0
+      },
+      {
+        "Effect": "SP+30",
         "Cost": 5
       },
       {
-        "Effect": "Same type TDM bonus",
+        "Effect": "No damage taken TDM bonus",
         "Cost": 5
       },
       {
-        "Effect": "Ailment TDM bonus",
+        "Effect": "Weapon skill dmg",
         "Cost": 10
       },
       {
-        "Effect": "Weapon skill vulnerability",
+        "Effect": "Non stellar outburst dmg",
         "Cost": 10
       }
     ],
@@ -153,16 +157,16 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Mad King's Mask",
+        "General": "Gold_Goblet",
         "Support": "Because of You"
       },
       "1st Shop": {
         "General": "Memory",
-        "Support": "An Old Pal's Legacy"
+        "Support": "Dreamful Gold"
       },
       "16F": {
         "General": "Tin Flask",
-        "Support": "An Old Pal's Legacy"
+        "Support": "Dreamful Gold"
       }
     },
     "Ego Signets": [
@@ -188,13 +192,13 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Decimation",
-      "Owner": "Kalpas",
+      "Name": "Signets of Gold",
+      "Owner": "Eden",
       "Signet": [
-        "Blade, Grave, and Scar",
-        "Bone, Blood, and Ribbon",
-        "Path, Misfortune, and Written Fate",
-        "Fight, Struggle, and Decimation (Nexus)"
+        "Recitatif of Eden",
+        "Recitatif of Creeks",
+        "Recitatif of Fine Jade",
+        "Aria of Gold (Nexus)"
       ]
     },
     "Secondary Signets": [
@@ -232,11 +236,13 @@
     ],
     "Optional Signets": [
       {
-        "Name": "Signets of Stars",
-        "Owner": "Griseo",
+        "Name": "Signets of Reverie",
+        "Owner": "Pardofelis",
         "Signet": [
-          "Red & Hot",
-          "Black & Dark"
+          "Motto of Meow",
+          "Back-Curled Tail",
+          "Neighborhood Chatters",
+          "Empty Dreams, Self, Set, and Joy (Nexus)"
         ]
       }
     ]

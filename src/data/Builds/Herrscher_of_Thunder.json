@@ -5,15 +5,19 @@
     "Stigmata": "Handel",
     "Buffs": [
       {
-        "Effect": "Weapon active vulnerability",
+        "Effect": "Assaka",
+        "Cost": 0
+      },
+      {
+        "Effect": "No damage taken TDM bonus",
         "Cost": 5
       },
       {
-        "Effect": "Counter type TDM boost",
+        "Effect": "Non stellar outburst dmg",
         "Cost": 10
       },
       {
-        "Effect": "Summons TDM bonus",
+        "Effect": "Weapon breach",
         "Cost": 15
       }
     ],
@@ -29,12 +33,12 @@
     },
     "Remembrance Sigil": {
       "Start": {
-        "General": "Rainbow of Absence",
-        "Support": "The Lonely Moon"
+        "General": "Mad King's Mask",
+        "Support": "An Old Pal's Legacy"
       },
       "1st Shop": {
-        "General": "Burden",
-        "Support": "The Lonely Moon"
+        "General": "Gold Goblet",
+        "Support": "An Old Pal's Legacy"
       },
       "16F": {
         "General": "Heavy as a Million Lives",
@@ -64,29 +68,26 @@
       }
     ],
     "Main Signets": {
-      "Name": "Signets of Stars",
-      "Owner": "Griseo",
+      "Name": "Signets of Decimation",
+      "Owner": "Kalpas",
       "Signet": [
-        "Red & Hot",
-        "Blue & Cold",
-        "Yellow & Warm",
-        "Black & Dark",
-        "Shining Like Stars (Nexus)",
-        "Blooming Like Flowers",
-        "Burning Like Flames",
-        "Stretching Like Leaves"
+        "Blade, Grave, and Scar",
+        "Bone, Blood, and Ribbon",
+        "Path, Misfortune, and Written Fate",
+        "Fight, Struggle, and Decimation (Nexus)",
+        "Burden, Difficulty, and Calamity",
+        "Man, Mask, and Contract"
       ]
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Deliverance",
-        "Owner": "Kevin",
+        "Name": "Signets of Gold",
+        "Owner": "Eden",
         "Signet": [
-          "Goblet of the Giver",
-          "Brand of the Undead",
-          "Artifact of the Inhibitor",
-          "Rochet of the Pilgrim",
-          "Blade of the Deliverer (Nexus)"
+          "Recitatif of Eden",
+          "Recitatif of Creeks",
+          "Recitatif of Fine Jade",
+          "Aria of Gold (Nexus)"
         ]
       },
       {
@@ -102,14 +103,13 @@
         ]
       },
       {
-        "Name": "Signets of Infinity",
-        "Owner": "Mobius",
+        "Name": "Signets of Stars",
+        "Owner": "Griseo",
         "Signet": [
-          "Rodent [V]",
-          "Entwined [P]",
-          "Entwined [P]",
-          "Infinite [X] (Nexus)",
-          "Dead [X]"
+          "Red & Hot",
+          "Yellow & Warm",
+          "Black & Dark",
+          "Shining Like Stars (Nexus)"
         ]
       }
     ],

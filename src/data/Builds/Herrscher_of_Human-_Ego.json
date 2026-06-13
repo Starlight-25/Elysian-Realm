@@ -5,15 +5,19 @@
     "Stigmata": "Solon",
     "Buffs": [
       {
-        "Effect": "Max HP + 500",
+        "Effect": "Assaka",
+        "Cost": 0
+      },
+      {
+        "Effect": "No damage taken TDM bonus",
         "Cost": 5
       },
       {
-        "Effect": "Weapon skill vulnerability",
-        "Cost": 15
+        "Effect": "Weapon skill dmg",
+        "Cost": 10
       },
       {
-        "Effect": "Weapon breach",
+        "Effect": "Combo ATK ultimate dmg",
         "Cost": 15
       }
     ],
@@ -33,7 +37,7 @@
         "Support": "Because of You"
       },
       "1st Shop": {
-        "General": "Burden",
+        "General": "Memory",
         "Support": "An Old Pal's Legacy"
       },
       "16F": {
@@ -77,13 +81,13 @@
     },
     "Secondary Signets": [
       {
-        "Name": "Signets of Deliverance",
-        "Owner": "Kevin",
+        "Name": "Signets of Vicissitude",
+        "Owner": "Hua",
         "Signet": [
-          "Goblet of the Giver",
-          "Brand of the Undead",
-          "Artifact of the Inhibitor",
-          "Blade of the Deliverer (Nexus)"
+          "Long Trip",
+          "Dark Garb No More",
+          "Old Dreams Again",
+          "Vivid Vicissitude (Nexus)"
         ]
       },
       {
